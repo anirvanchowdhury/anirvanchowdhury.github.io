@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I am a third year PhD student at the Charles and Louise Travers department of Political Science, and a Research Associate at the Center for the Politics of Dvelopment at the University of California, Berkeley. Welcome to my website!</p>
+Hi, I am a third year PhD student at the Charles and Louise Travers department of Political Science, and a Research Associate at the Center for the Politics of Dvelopment at the University of California, Berkeley. Welcome to my website!
 
-<p>My broad research interests lie in comparative politics and the political economy of development. My current projects centre on women's political mobilisation, persistence and erosion of ideology in political parties, and public service delivery in decentralised contexts.</p>
+My broad research interests lie in comparative politics and the political economy of development. My current projects centre on women's political mobilisation, persistence and erosion of ideology in political parties, and public service delivery in decentralised contexts.
 
 <h2>Skills</h2>
 
