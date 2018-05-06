@@ -27,7 +27,7 @@ My broad research interests lie in comparative politics and the political econom
 
 ### Teaching
 #### UC Berkeley
-* I have been a Graduate Student Instructor (GSI) for PS 3, an introductory class in quantitative and empirical methods. [Professor Laura Stoker](http://polisci.berkeley.edu/people/person/laura-stoker) was the lead instructor, and I received an award for being an [Outstanding GSI](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/). 
+I have been a Graduate Student Instructor (GSI) for PS 3, an introductory class in quantitative and empirical methods. [Professor Laura Stoker](http://polisci.berkeley.edu/people/person/laura-stoker) was the lead instructor, and I received an award for being an [Outstanding GSI](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/). 
 
 Some of my teaching materials for the class are available here (coming soon!). Some in-class exercises draw heavily on those created by [Sara Newland](https://scholar.harvard.edu/snewland) (thanks, Sara!).
 
