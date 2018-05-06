@@ -8,6 +8,9 @@ Hi, I am a third year PhD student at the Charles and Louise Travers department o
 
 My broad research interests lie in comparative politics and the political economy of development. My current projects centre on women's political mobilisation, persistence and erosion of ideology in political parties, and public service delivery in decentralised contexts.
 
+[Outstanding GSI](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/)
+
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
