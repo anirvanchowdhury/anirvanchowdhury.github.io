@@ -8,7 +8,7 @@ Hi, I am a third year PhD student at the [Charles and Louise Travers department 
 
 My broad research interests lie in comparative politics and the political economy of development. My current projects centre on women's political mobilisation, persistence and erosion of ideology in political parties, and public service delivery in decentralised contexts.
 
-
+<!-->
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -27,6 +27,7 @@ My broad research interests lie in comparative politics and the political econom
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
+<!-->
 
 <h2>Projects</h2>
 
