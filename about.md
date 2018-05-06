@@ -11,6 +11,10 @@ My broad research interests lie in comparative politics and the political econom
 [Outstanding GSI](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/)
 
 
+# Skills 1
+## Skills 2
+### Skills 3
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
