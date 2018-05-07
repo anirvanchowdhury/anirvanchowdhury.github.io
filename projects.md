@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 ---
 
 #### Published articles/book chapters
