@@ -1,7 +1,7 @@
 ---
-title: Consulting
+title: Research
 layout: page
-permalink: /consulting/index.html
+permalink: /research/index.html
 ---
 
 ### Research
