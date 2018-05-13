@@ -9,8 +9,9 @@ My broad research interests lie in comparative politics and the political econom
 
 
 #### Published articles/book chapters
-* Does Information Shape Electoral Choices? A Meta-Analysis in *Metaketa 1: Information, Accountability and Cumulative Learning*, Cambridge University Press (with [Thad Dunning](http://www.thaddunning.com/), [Clara Bicalho](https://wzb.eu/en/persons/clara-bicalho-maia-correia), [Guy Grossman](https://web.sas.upenn.edu/ggros/), [Macartan Humphreys](http://www.macartan.nyc/), [Susan Hyde](http://susan.hyde.co/), [Craig Mcintosh](http://gps.ucsd.edu/faculty-directory/craig-mcintosh.html) and [Gareth Nellis](http://www.garethnellis.com/)) 
-* Do Gram Panchayats Get Their Money? A Case Study of Gram Panchayat Fund Flows in Birbhum District, West Bengal. 2017 in _Decentralisation, Governance and Development: An Indian Perspective_, Orient Black Swan (with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre) and [Yamini Aiyar](http://www.cprindia.org/people/yamini-aiyar)) 
+* Chapter 11: Meta-analysis (with [Thad Dunning](http://www.thaddunning.com/), [Clara Bicalho](https://wzb.eu/en/persons/clara-bicalho-maia-correia), [Guy Grossman](https://web.sas.upenn.edu/ggros/), [Macartan Humphreys](http://www.macartan.nyc/), [Susan Hyde](http://susan.hyde.co/), [Craig Mcintosh](http://gps.ucsd.edu/faculty-directory/craig-mcintosh.html)and [Gareth Nellis](http://www.garethnellis.com/)) in _Metaketa I: Information, Accountability and Cumulative Learning_. Forthcoming. Cambridge University Press.
+
+* Do Gram Panchayats Get Their Money? A Case Study of Gram Panchayat Fund Flows in Birbhum District, West Bengal (with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre) and [Yamini Aiyar](http://www.cprindia.org/people/yamini-aiyar)) 2017 in _Decentralisation, Governance and Development: An Indian Perspective_. Orient Black Swan.
 
 #### Working papers/book chapters in progress
 * Partisan vs Policy Bias: An Experiment on News Credibility in India 
