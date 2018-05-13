@@ -1,6 +1,7 @@
 ---
 title: Consulting
 layout: page
+permalink: /consulting/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
