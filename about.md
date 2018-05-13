@@ -8,6 +8,8 @@ Hi, I am a third year PhD student at the [Charles and Louise Travers department 
 
 My broad research interests lie in comparative politics and the political economy of development. My current projects centre on women's political mobilisation, persistence and erosion of ideology in political parties, and public service delivery in decentralised contexts.
 
+
+<!--- 
 ### Research
 
 #### Published articles/book chapters
@@ -33,5 +35,4 @@ Some of my teaching materials for the class are available here (coming soon!). S
 
 #### Georgetown University
 I was a Teaching Assistant for Advanced Regression/Program Analysis Methods at Georgetown University's McCourt School of Public Policy in 2014. The class was taught by [Professor Jean Mitchell](https://gufaculty360.georgetown.edu/s/faculty-profile?netid=mitchejm%2F) and is the final course of the compulsory quantitative sequence for graduate students in the school's Master of Public Policy program.
-
-
+--->
