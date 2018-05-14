@@ -4,10 +4,10 @@ title: Fun stuff
 permalink: /fun/index.html
 ---
 
-Things I like. <!-- Not in a strict preference order, but usually there's a reason why certain things are at the top of the list. -->
+Things I like. Not in a strict preference order, but usually there's a reason why certain things are at the top of the list.
 
 ### Movies
-* Three Colours:[Blue](https://www.imdb.com/title/tt0108394/), [White](https://www.imdb.com/title/tt0111507/), [Red](https://www.imdb.com/title/tt0111495/).
+* Three Colours: [Blue](https://www.imdb.com/title/tt0108394/), [White](https://www.imdb.com/title/tt0111507/), [Red](https://www.imdb.com/title/tt0111495/).
 * [Le Samouraï](https://www.imdb.com/title/tt0062229/)
 * [Yojimbo](https://www.imdb.com/title/tt0055630/)
 * [Amelie](https://www.imdb.com/title/tt0211915/)
