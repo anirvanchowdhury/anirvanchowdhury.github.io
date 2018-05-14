@@ -7,7 +7,7 @@ permalink: /fun/index.html
 Things I like. Not in a strict preference order, but usually there's a reason why certain things are at the top of the list.
 
 ### Movies
-* Three Colours: [Blue](https://www.imdb.com/title/tt0108394/), [White](https://www.imdb.com/title/tt0111507/), [Red](https://www.imdb.com/title/tt0111495/).
+* Three Colours: [Blue](https://www.imdb.com/title/tt0108394/), [White](https://www.imdb.com/title/tt0111507/), [Red](https://www.imdb.com/title/tt0111495/)
 * [Le Samouraï](https://www.imdb.com/title/tt0062229/)
 * [Yojimbo](https://www.imdb.com/title/tt0055630/)
 * [Amelie](https://www.imdb.com/title/tt0211915/)
@@ -25,20 +25,16 @@ Things I like. Not in a strict preference order, but usually there's a reason wh
 
 ### Indian classical
 * Darbari
-	* [Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ) (sitar)
-	* [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY) (sitar)
+	* Sitar: [Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY)
 * Yaman
-	* [Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU) (rudra veena)
+	* Rudra veena: [Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU)
 * Jog
-	* [Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE) (vocal)
-	* [Zakir Hussain and Rakesh Chaurasia](https://www.youtube.com/watch?v=O2K0ptoYpuc) (tabla and bansuri)
-	* [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I) (vocal)
-	* [Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w) (surbahar)
+	* Vocal: [Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)
+	* Tabla and bansuri: [Zakir Hussain and Rakesh Chaurasia](https://www.youtube.com/watch?v=O2K0ptoYpuc) 
+	* Surbahar: [Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w)
 * Bihag
-	* [Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU)(vocal)
-	* [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)(vocal)
-	* [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk) (vocal)
+	* Vocal: [Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)
 * Shudhha Sarang  
-	* [Kaushiki Chakraborty](https://www.youtube.com/watch?v=PzCZomuHVVQ) (vocal)
-	* [Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=9QiJ1E6UpEs) (rudra veena)
-	* [Budhaditya Mukherjee](https://www.youtube.com/watch?v=PpoLmkkkHdM) (sitar)
+	* Vocal: [Kaushiki Chakraborty](https://www.youtube.com/watch?v=PzCZomuHVVQ)
+	* Rudra veena: [Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=9QiJ1E6UpEs)
+	* Sitar: [Budhaditya Mukherjee](https://www.youtube.com/watch?v=PpoLmkkkHdM)
