@@ -17,22 +17,26 @@ Things I like. Not in a strict preference order, but usually there's a reason wh
 
 ### Music
 * Studio
-	* [The Joshua Tree](https://www.allmusic.com/album/the-joshua-tree-mw0000196162)
-	* [The Dark Side of the Moon](https://www.allmusic.com/album/the-dark-side-of-the-moon-mw0000191308)
-	* [Lateralus](https://www.allmusic.com/album/lateralus-mw0000002072)
-	* [Discipline](https://www.allmusic.com/album/discipline-mw0000196148)
-	* [Pink Moon](https://www.allmusic.com/album/pink-moon-mw0000315191)
-	* [Blues](https://www.allmusic.com/album/blues-mw0000111756) - this is not an album like the rest, but a compilation of mostly previously unreleased recordings. But I had to have this. 
-	* [Time Out of Mind](https://www.allmusic.com/album/time-out-of-mind-mw0000026150)
+	* U2: [The Joshua Tree](https://www.allmusic.com/album/the-joshua-tree-mw0000196162)
+	* Pink Floyd: [The Dark Side of the Moon](https://www.allmusic.com/album/the-dark-side-of-the-moon-mw0000191308), [Wish You Were Here](https://www.allmusic.com/album/wish-you-were-here-mw0000650633)
+	* Tool: [Lateralus](https://www.allmusic.com/album/lateralus-mw0000002072)
+	* King Crimson: [Discipline](https://www.allmusic.com/album/discipline-mw0000196148)
+	* Nick Drake: [Pink Moon](https://www.allmusic.com/album/pink-moon-mw0000315191)
+	* Jimi Hendrix: [Blues](https://www.allmusic.com/album/blues-mw0000111756) - a compilation of (mostly) previously unreleased recordings. 
+	* Bob Dylan: [Time Out of Mind](https://www.allmusic.com/album/time-out-of-mind-mw0000026150)
+	* Patti Smith: [Horses](https://www.allmusic.com/album/horses-mw0000198924)
 
 * Live stuff
 	* Not Indian classical 
 		* [Alice in Chains Unplugged](https://www.youtube.com/watch?v=VzV6-3kyXKA)
 		* [PJ Harvey, Glastonbury](https://www.youtube.com/watch?v=bkJhCOQaCDc)
 		* [The Dead Weather](https://www.youtube.com/watch?v=SRyYk0FBOXU&t=4s)
+		* [Pink Floyd, Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too!
 	* Indian classical
 		* Darbari
 			* Sitar: [Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY)
+		* Adana
+			* Vocal: [Rahim Fahimuddin Dagar](https://www.youtube.com/watch?v=maPAKmHJLgA)
 		* Yaman
 			* Rudra veena: [Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU)
 		* Jog
