@@ -4,7 +4,8 @@ title: Fun stuff
 permalink: /fun/index.html
 ---
 
-Things I like. Not in a strict preference order, but usually there's a reason why certain things are at the top of the list. I am probably being far too self-indulgent, but then, it _is_ my website :)
+Things I like. Not in a strict preference order, but usually there's a reason why certain things are at the top of the list. 
+I am probably being far too self-indulgent, but then, it _is_ my website :)
 
 ### Movies
 * Three Colours: [Blue](https://www.imdb.com/title/tt0108394/), [White](https://www.imdb.com/title/tt0111507/), [Red](https://www.imdb.com/title/tt0111495/)
@@ -28,7 +29,7 @@ Things I like. Not in a strict preference order, but usually there's a reason wh
 
 * Live stuff
 	* Not Indian classical 
-		* [Alice in Chains Unplugged](https://www.youtube.com/watch?v=VzV6-3kyXKA). Call me a fanboy, but I do think
+		* [Alice in Chains Unplugged](https://www.youtube.com/watch?v=VzV6-3kyXKA). Call me a fanboy, but I do think the new album - The Devil Put Dinosaurs Here - is pretty good!
 		* [PJ Harvey, Glastonbury](https://www.youtube.com/watch?v=bkJhCOQaCDc)
 		* [The Dead Weather](https://www.youtube.com/watch?v=SRyYk0FBOXU&t=4s)
 		* [Pink Floyd, Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days.
