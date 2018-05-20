@@ -34,21 +34,10 @@ I am probably being far too self-indulgent, but then, it _is_ my website :)
 		* [The Dead Weather](https://www.youtube.com/watch?v=SRyYk0FBOXU&t=4s)
 		* [Pink Floyd, Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days.
 	* Indian classical
-		* Darbari
-			* Sitar: [Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY)
-		* Adana
-			* Vocal: [Rahim Fahimuddin Dagar](https://www.youtube.com/watch?v=maPAKmHJLgA)
-		* Yaman
-			* Rudra veena: [Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU)
-		* Jog
-			* Vocal: [Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)
-			* Tabla and bansuri: [Zakir Hussain and Rakesh Chaurasia](https://www.youtube.com/watch?v=O2K0ptoYpuc) 
-			* Surbahar: [Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w)
-		* Bihag
-			* Vocal: [Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)
-		* Shudhha Sarang  
-			* Vocal: [Kaushiki Chakraborty](https://www.youtube.com/watch?v=PzCZomuHVVQ)
-			* Rudra veena: [Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=9QiJ1E6UpEs)
-			* Sitar: [Budhaditya Mukherjee](https://www.youtube.com/watch?v=PpoLmkkkHdM)
-		* Shuddha Todi
-			* Rudra Veena: [Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=xgLpl-iXUEI) (a rare clip where you can actually see him play)
+		* Darbari: Sitar ([Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY))
+		* Adana: Vocal ([Rahim Fahimuddin Dagar](https://www.youtube.com/watch?v=maPAKmHJLgA))
+		* Yaman: Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU))
+		* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), tabla and bansuri: ([Zakir Hussain and Rakesh Chaurasia](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
+		* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w))
+		* Shudhha Sarang: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=PzCZomuHVVQ)), Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=9QiJ1E6UpEs)), Sitar ([Budhaditya Mukherjee](https://www.youtube.com/watch?v=PpoLmkkkHdM))
+		* Shuddha Todi: Rudra Veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=xgLpl-iXUEI))
