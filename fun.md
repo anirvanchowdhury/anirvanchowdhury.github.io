@@ -5,6 +5,7 @@ permalink: /fun/index.html
 ---
 
 Things I like. Not in a strict preference order, but usually there's a reason why certain things are at the top of the list. 
+
 I am probably being far too self-indulgent, but then, it _is_ my website :)
 
 ### Movies
@@ -13,6 +14,7 @@ I am probably being far too self-indulgent, but then, it _is_ my website :)
 * [Yojimbo](https://www.imdb.com/title/tt0055630/)
 * [Amelie](https://www.imdb.com/title/tt0211915/)
 * [Vertigo](https://www.imdb.com/title/tt0052357/)
+* [In the Mood for Love](https://www.imdb.com/title/tt0118694/)
 * [Nayak](https://www.imdb.com/title/tt0060742/)
 * [Amarcord](https://www.imdb.com/title/tt0071129/)
 
