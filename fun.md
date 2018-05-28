@@ -25,21 +25,24 @@ I am probably being far too self-indulgent, but then, it _is_ my website :)
 	* Tool: [Lateralus](https://www.allmusic.com/album/lateralus-mw0000002072)
 	* King Crimson: [Discipline](https://www.allmusic.com/album/discipline-mw0000196148)
 	* Nick Drake: [Pink Moon](https://www.allmusic.com/album/pink-moon-mw0000315191)
-	* Jimi Hendrix: [Blues](https://www.allmusic.com/album/blues-mw0000111756) - a compilation of (mostly) previously unreleased recordings. 
-	* Bob Dylan: [Time Out of Mind](https://www.allmusic.com/album/time-out-of-mind-mw0000026150)
+	* Jimi Hendrix: [Blues](https://www.allmusic.com/album/blues-mw0000111756) 
+	* Bob Dylan: [Time out of Mind](https://www.allmusic.com/album/time-out-of-mind-mw0000026150)
+	* Dream Theater: [Images and Words](https://www.allmusic.com/album/images-and-words-mw0000079922)
 	* Patti Smith: [Horses](https://www.allmusic.com/album/horses-mw0000198924)
 
 * Live stuff
 	* Not Indian classical 
-		* [Alice in Chains Unplugged](https://www.youtube.com/watch?v=VzV6-3kyXKA). Call me a fanboy, but I do think the new album - The Devil Put Dinosaurs Here - is pretty good!
-		* [PJ Harvey, Glastonbury](https://www.youtube.com/watch?v=bkJhCOQaCDc)
-		* [The Dead Weather](https://www.youtube.com/watch?v=SRyYk0FBOXU&t=4s)
-		* [Pink Floyd, Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days.
+		* Alice in Chains: [Unplugged](https://www.youtube.com/watch?v=VzV6-3kyXKA)
+		* PJ Harvey: [Glastonbury](https://www.youtube.com/watch?v=bkJhCOQaCDc)
+		* The Dead Weather: [Prive](https://www.youtube.com/watch?v=SRyYk0FBOXU&t=4s)
+		* Pink Floyd [Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days.
+		* Opeth: [The Roundhouse Tapes](https://www.youtube.com/watch?v=JOHaq1t_zeo), [Lamentations](https://www.youtube.com/watch?v=3LMxLIcRWy8&list=PL_9gWeiShHFH5wNBL7VjQi2HxVUFLpI9d)
 	* Indian classical
-		* Darbari: Sitar ([Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY))
+		* Darbari: Vocal ([Gundecha brothers](https://www.youtube.com/watch?v=_bg47_O00eU)), Sitar ([Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY))
 		* Adana: Vocal ([Rahim Fahimuddin Dagar](https://www.youtube.com/watch?v=maPAKmHJLgA))
 		* Yaman: Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU))
-		* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), tabla and bansuri: ([Zakir Hussain and Rakesh Chaurasia](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
-		* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w))
+		* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), bansuri and tabla ([Rakesh Chaurasia and Zakir Hussain](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
+		* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w))		
 		* Shudhha Sarang: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=PzCZomuHVVQ)), Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=9QiJ1E6UpEs)), Sitar ([Budhaditya Mukherjee](https://www.youtube.com/watch?v=PpoLmkkkHdM))
 		* Shuddha Todi: Rudra Veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=xgLpl-iXUEI))
+		* Bhinna Shadja: Rudra veena and saxophone ([Carsten Wicke and Jonathan Kay](https://www.youtube.com/watch?v=3yzCUcepQB0))
