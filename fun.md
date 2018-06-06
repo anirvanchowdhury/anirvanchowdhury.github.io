@@ -38,7 +38,7 @@ I am probably being far too self-indulgent, but then, it _is_ my website :)
 		* Pink Floyd [Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days.
 		* Opeth: [The Roundhouse Tapes](https://www.youtube.com/watch?v=JOHaq1t_zeo), [Lamentations](https://www.youtube.com/watch?v=3LMxLIcRWy8&list=PL_9gWeiShHFH5wNBL7VjQi2HxVUFLpI9d)
 	* Indian classical
-		* Darbari: Vocal ([Gundecha brothers](https://www.youtube.com/watch?v=_bg47_O00eU)), Sitar ([Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY))
+		* Darbari: Vocal ([Gundecha brothers](https://www.youtube.com/watch?v=_bg47_O00eU)), Sitar ([Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY)), Guitar ([Vasant Rai](https://www.youtube.com/watch?v=gFp_yVjnQ44))
 		* Adana: Vocal ([Rahim Fahimuddin Dagar](https://www.youtube.com/watch?v=maPAKmHJLgA))
 		* Yaman: Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU))
 		* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), bansuri and tabla ([Rakesh Chaurasia and Zakir Hussain](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
