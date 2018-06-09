@@ -35,10 +35,6 @@ Stuff I like. Not in a strict preference order.
 		* Yaman: Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU))
 		* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), bansuri and tabla ([Rakesh Chaurasia and Zakir Hussain](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
 		* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w))		
-		<!---
-		* Shudhha Sarang: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=PzCZomuHVVQ)), Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=9QiJ1E6UpEs)), Sitar ([Budhaditya Mukherjee](https://www.youtube.com/watch?v=PpoLmkkkHdM))
-		* Shuddha Todi: Rudra Veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=xgLpl-iXUEI))
-		-->
 		* Bhinna Shadja: Rudra veena and saxophone ([Carsten Wicke and Jonathan Kay](https://www.youtube.com/watch?v=3yzCUcepQB0))
 	* Not Indian classical 
 		* Alice in Chains: [Unplugged](https://www.youtube.com/watch?v=VzV6-3kyXKA)
