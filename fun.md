@@ -32,10 +32,12 @@ Stuff I like. Not in a strict preference order.
 	* Indian classical
 		* Darbari: Vocal ([Gundecha brothers](https://www.youtube.com/watch?v=_bg47_O00eU)), Sitar ([Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY)), Guitar ([Vasant Rai](https://www.youtube.com/watch?v=gFp_yVjnQ44))
 		* Adana: Vocal ([Rahim Fahimuddin Dagar](https://www.youtube.com/watch?v=maPAKmHJLgA))
+		* Suha Kanada: Sitar ([Mita Nag](https://www.youtube.com/watch?v=Pmei4Ix6dhA))
 		* Yaman: Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU))
 		* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), bansuri and tabla ([Rakesh Chaurasia and Zakir Hussain](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
 		* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w))		
 		* Bhinna Shadja: Rudra veena and saxophone ([Carsten Wicke and Jonathan Kay](https://www.youtube.com/watch?v=3yzCUcepQB0))
+		* Malhar: Sitar (Buddhaditya Mukherjee([https://www.youtube.com/watch?v=pFenlzgBEns]) in a thunderstorm!)
 	* Not Indian classical 
 		* Alice in Chains: [Unplugged](https://www.youtube.com/watch?v=VzV6-3kyXKA)
 		* PJ Harvey: [Glastonbury](https://www.youtube.com/watch?v=bkJhCOQaCDc)
