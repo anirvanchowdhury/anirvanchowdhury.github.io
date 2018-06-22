@@ -44,3 +44,4 @@ Stuff I like. Not in a strict preference order.
 		* The Dead Weather: [Prive](https://www.youtube.com/watch?v=SRyYk0FBOXU&t=4s)
 		* Pink Floyd [Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days.
 		* Opeth: [The Roundhouse Tapes](https://www.youtube.com/watch?v=JOHaq1t_zeo), [Lamentations](https://www.youtube.com/watch?v=3LMxLIcRWy8&list=PL_9gWeiShHFH5wNBL7VjQi2HxVUFLpI9d)
+		* Isobel Campbell and Mark Lanegan: [La Route Du Rock](https://www.youtube.com/watch?v=tmbGtsg0Do8)
