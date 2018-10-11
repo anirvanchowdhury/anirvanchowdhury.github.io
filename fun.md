@@ -26,7 +26,7 @@ Stuff I like. Not in a strict preference order.
 	* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)), [Vasant Rai](https://www.discogs.com/Vasant-Rai-Zakir-Hussain-Evening-Ragas/release/3418052)
 	* Bhinna Shadja: Rudra veena and saxophone ([Carsten Wicke and Jonathan Kay](https://www.youtube.com/watch?v=3yzCUcepQB0))
 	* Malhar: Sitar ([Buddhaditya Mukherjee](https://www.youtube.com/watch?v=pFenlzgBEns) in a thunderstorm!)
-	* *Misc*: Check out NCPA's the fabulous [Music in Motion](https://autrimncpa.wordpress.com/) project for a graphical representation of Indian Classical music. I'd recommend starting with Uday Bhawalkar's Raga Darbari. Honestly, I could listen to the sargam all day.
+	* *Check out the NCPA's fabulous [Music in Motion](https://autrimncpa.wordpress.com/) project for a graphical representation of Indian Classical music. I'd recommend starting with Uday Bhawalkar's Raga Darbari. Honestly, I could listen to the sargam all day.*
 
 * Not Indian classical 
 	* Studio
