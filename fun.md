@@ -23,7 +23,7 @@ Stuff I like. Not in a strict preference order.
 	* Suha Kanada: Sitar ([Mita Nag](https://www.youtube.com/watch?v=Pmei4Ix6dhA))
 	* Yaman: Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU))
 	* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), bansuri and tabla ([Rakesh Chaurasia and Zakir Hussain](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
-	* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)), [Vasant Rai](https://www.discogs.com/Vasant-Rai-Zakir-Hussain-Evening-Ragas/release/3418052)
+	* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)), Sarod ([Vasant Rai](https://www.discogs.com/Vasant-Rai-Zakir-Hussain-Evening-Ragas/release/3418052))
 	* Bhinna Shadja: Rudra veena and saxophone ([Carsten Wicke and Jonathan Kay](https://www.youtube.com/watch?v=3yzCUcepQB0))
 	* Malhar: Sitar ([Buddhaditya Mukherjee](https://www.youtube.com/watch?v=pFenlzgBEns) in a thunderstorm!)
 	* *Check out the NCPA's fabulous [Music in Motion](https://autrimncpa.wordpress.com/) project for a graphical representation of Indian Classical music. I'd recommend starting with Uday Bhawalkar's Raga Darbari. Honestly, I could listen to the sargam all day.*
