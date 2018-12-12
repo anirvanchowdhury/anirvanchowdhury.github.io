@@ -18,16 +18,17 @@ Stuff I like. Not in a strict preference order.
 
 ### Music
 * Indian classical
-	* Darbari Kanada: Vocal ([Gundecha brothers](https://www.youtube.com/watch?v=_bg47_O00eU)), Sitar ([Nikhil Banerjee\*](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY)), Sur-guitar ([Vasant Rai\*](https://www.youtube.com/watch?v=gFp_yVjnQ44))
+	* Darbari Kanada: Vocal ([Gundecha brothers](https://www.youtube.com/watch?v=_bg47_O00eU)), Sitar ([Nikhil Banerjee](https://www.youtube.com/watch?v=EUiDVRfYwmQ), [Shahid Parvez](https://www.youtube.com/watch?v=cb6kvPdQPSY)), Sur-guitar ([Vasant Rai](https://www.youtube.com/watch?v=gFp_yVjnQ44))
 	* Adana: Vocal ([Rahim Fahimuddin Dagar](https://www.youtube.com/watch?v=maPAKmHJLgA))
 	* Suha Kanada: Sitar ([Mita Nag](https://www.youtube.com/watch?v=Pmei4Ix6dhA))
-	* Yaman: Rudra veena ([Zia Mohiuddin Dagar\*](https://www.youtube.com/watch?v=q5trNs7M3MU))
-	* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), bansuri and tabla ([Rakesh Chaurasia and Zakir Hussain\*](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
-	* Bihag: Vocal ([Uday Bhawalkar\*](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)), Sarod ([Vasant Rai\*](https://www.discogs.com/Vasant-Rai-Zakir-Hussain-Evening-Ragas/release/3418052))
+	* Yaman: Rudra veena ([Zia Mohiuddin Dagar](https://www.youtube.com/watch?v=q5trNs7M3MU))
+	* Jog: Vocal ([Kaushiki Chakraborty](https://www.youtube.com/watch?v=jkNlOUF6OLE), [Parveen Sultana](https://www.youtube.com/watch?v=B0rPw5JQs3I)), bansuri and tabla ([Rakesh Chaurasia and Zakir Hussain](https://www.youtube.com/watch?v=O2K0ptoYpuc)), Surbahar ([Kushal Das](https://www.youtube.com/watch?v=SK3FmfOeJ4w))
+	* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)), Sarod ([Vasant Rai](https://www.discogs.com/Vasant-Rai-Zakir-Hussain-Evening-Ragas/release/3418052))
 	* Nat Bihag: Vocal ([Mallikarjun Mansur](https://www.youtube.com/watch?v=7N4bawMog2Q&t=42m04s))
 	* Bhinna Shadja: Rudra veena and saxophone ([Carsten Wicke and Jonathan Kay](https://www.youtube.com/watch?v=3yzCUcepQB0))
 	* Malhar: Sitar ([Buddhaditya Mukherjee](https://www.youtube.com/watch?v=pFenlzgBEns) in a thunderstorm!)
-	* *Check out the NCPA's fabulous [Music in Motion](https://autrimncpa.wordpress.com/) project for a graphical representation of Indian Classical music. For what it's worth, I'd recommend starting with Uday Bhawalkar's Raga Darbari for the andolans along the Dhaivata and Komal Gandhar.*
+	* Brindavani Sarang: Vocal ([Bhimsen Joshi](https://mio.to/album/Pandit+Bhimsen+Joshi/The+Genius+Of+Pt+Bhimsen+Joshi))
+	* *Check out the NCPA's fabulous [Music in Motion](https://autrimncpa.wordpress.com/) project for a dynamic graphical representation of the ragas. For what it's worth, I'd recommend starting with Uday Bhawalkar's [Raga Darbari](https://autrimncpa.wordpress.com/darbari-kanada/).*
 
 * Not Indian classical 
 	* Studio

@@ -14,7 +14,8 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://www.dropbox.com/s/q1zxkze78xz4igw/chowdhury_cv_20180727.pdf
+# resume-url: https://www.dropbox.com/s/q1zxkze78xz4igw/chowdhury_cv_20180727.pdf
+resume-url: https://www.dropbox.com/s/avgfkjfluklbra0/cv_updated.pdf
 
 url: http://anirvanchowdhury.github.io
 # your url: http://USERNAME.github.io
@@ -37,7 +38,7 @@ disqus:
 # facebook: myfacebook
 twitter: chyawanprash
 # google: mygoogle
-# instagram: myinstagram
+instagram: anirvanc
 # pinterest: mypinterest
 linkedin: anirvan-chowdhury-5a0b5515
 # youtube: myyoutube
