@@ -22,6 +22,8 @@ My broad research interests lie in comparative politics and the political econom
 
 * Partisan vs Policy Bias: An Experiment on News Credibility in India 
 
+* Electoral Dominance in Democratic Regimes: Evidence from West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
+
 * Party Alignment and Fiscal Transfers: Evidence from West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
 
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
@@ -29,6 +31,4 @@ My broad research interests lie in comparative politics and the political econom
 #### Work in progress
 * The Colonial Origins of Hindu-Muslim Violence in India (with [Aaditya Dar](https://aadityadar.com/) and [Rahul Verma](http://polisci.berkeley.edu/people/person/rahul-verma))
 
-* Ideology and Contestation: The Last Bastions of the Left in West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
-
-* The General Equilibrium Effects of Political Campaigns: An Experiment on Women's Vote in India (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
+* A Field Experiment on Engaging Women Voters in India (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
