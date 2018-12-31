@@ -32,3 +32,7 @@ My broad research interests lie in comparative politics and the political econom
 * The Colonial Origins of Hindu-Muslim Violence in India (with [Aaditya Dar](https://aadityadar.com/) and [Rahul Verma](http://polisci.berkeley.edu/people/person/rahul-verma))
 
 * A Field Experiment on Engaging Women Voters in India (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
+
+#### Other writing
+##### Women and politics 
+* [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html) 
