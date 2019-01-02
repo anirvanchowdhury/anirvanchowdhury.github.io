@@ -28,7 +28,7 @@ Stuff I like. Not in a strict preference order.
 	* Bihag: Vocal ([Uday Bhawalkar](https://www.youtube.com/watch?v=0PljerNT1iU), [Ashish Sankrityayan](https://www.youtube.com/watch?v=E4l_J877tdk), [Ajay Chakraborty](https://www.youtube.com/watch?v=wlo7Lpdcn2w)), Sarod ([Vasant Rai](https://www.discogs.com/Vasant-Rai-Zakir-Hussain-Evening-Ragas/release/3418052))
 	* Nat Bihag: Vocal ([Mallikarjun Mansur](https://www.youtube.com/watch?v=7N4bawMog2Q&t=42m04s))
 	* Bhinna Shadja: Rudra veena and saxophone ([Carsten Wicke and Jonathan Kay](https://www.youtube.com/watch?v=3yzCUcepQB0))
-	* Malhar: Sitar ([Buddhaditya Mukherjee](https://www.youtube.com/watch?v=pFenlzgBEns) in a thunderstorm!)
+	* Malhar: Vocal ([Ashish Sankrityayan](https://store.cdbaby.com/cd/ashish1)) Sitar ([Buddhaditya Mukherjee](https://www.youtube.com/watch?v=pFenlzgBEns) in a thunderstorm!)
 	* Brindavani Sarang: Vocal ([Bhimsen Joshi](https://mio.to/album/Pandit+Bhimsen+Joshi/The+Genius+Of+Pt+Bhimsen+Joshi))
 	* *Check out the NCPA's fabulous [Music in Motion](https://autrimncpa.wordpress.com/) project for a dynamic graphical representation of the ragas. For what it's worth, I'd recommend starting with Uday Bhawalkar's [Raga Darbari](https://autrimncpa.wordpress.com/darbari-kanada/).*
 
