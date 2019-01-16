@@ -39,4 +39,5 @@ My broad research interests lie in comparative politics and the political econom
 ##### Women and politics 
 * [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html)) 
 
-#### Other writing
+#### Media mentions
+* [Assembly polls verdict: Will women decide the vote today?](https://mumbaimirror.indiatimes.com/news/india/assembly-polls-verdict-will-women-decide-the-vote-today/articleshow/67032480.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
