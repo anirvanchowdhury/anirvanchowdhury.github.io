@@ -18,7 +18,8 @@ My broad research interests lie in comparative politics and the political econom
 * Do Gram Panchayats Get Their Money? A Case Study of Gram Panchayat Fund Flows in Birbhum District, West Bengal (with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre) and [Yamini Aiyar](http://www.cprindia.org/people/yamini-aiyar)) in _Decentralisation, Governance and Development: An Indian Perspective_. 2017. Orient Black Swan.
 
 #### Working papers
-* Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials (with [EGAP Metaketa I team](http://egap.org/metaketa/metaketa-information-and-accountability))
+* Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials (with [EGAP Metaketa I team](http://egap.org/metaketa/metaketa-information-and-accountability)). 
+	* Revise and resubmit at _Science Advances_
 
 * Partisan vs Policy Bias: An Experiment on News Credibility in India 
 
@@ -36,3 +37,5 @@ My broad research interests lie in comparative politics and the political econom
 #### Other writing
 ##### Women and politics 
 * [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html)) 
+
+#### Other writing
