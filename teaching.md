@@ -10,7 +10,7 @@ Graduate Student Instructor (GSI)
 * PS 3 (Fall 2016): Introduction to Empirical Analysis & Quantitative Methods for undergraduate students 
 	- Instructor: [Professor Laura Stoker](http://polisci.berkeley.edu/people/person/laura-stoker) 
 	- [Outstanding GSI](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/), AY 2016-17 
-	-* Teaching materials for this class will be available soon! Some of the in-class exercises draw heavily on those created by [Sara Newland](https://scholar.harvard.edu/snewland) (thanks, Sara!)
+	- Teaching materials for this class will be available soon! Some of the in-class exercises draw heavily on those created by [Sara Newland](https://scholar.harvard.edu/snewland) (thanks, Sara!)
 
 ## Georgetown University
 Teaching Assistant, McCourt School of Public Policy
