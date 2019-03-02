@@ -6,7 +6,7 @@ permalink: /teaching/index.html
 
 ## UC Berkeley
 Graduate Student Instructor (GSI)
-* Math Camp (Summer 2018): This is an intensive two week introduction to mathematical and statistical methods required for the quantitative methods sequence for admitted PhD students. 
+* Math Camp (Summer 2018): This is an intensive two week introduction to mathematical and statistical methods required for the quantitative methods sequence for PhD students admitted to the political science department. 
 * PS 3 (Fall 2016): Introduction to Empirical Analysis & Quantitative Methods for undergraduate students 
 	- Instructor: [Professor Laura Stoker](http://polisci.berkeley.edu/people/person/laura-stoker) 
 	- [Outstanding GSI](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/), AY 2016-17 
