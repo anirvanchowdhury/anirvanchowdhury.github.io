@@ -6,20 +6,21 @@ permalink: /research/index.html
 
 ### Research
 My broad research interests lie in comparative politics and the political economy of development. My current projects centre on: 
-* women's political mobilisation and collective action, 
-* persistence and erosion of ideology in political parties,
+* whether and how voters use information to hold politicians accountable
 * public service delivery in decentralised contexts,
-* historical origins of ethnic conflict, and
-* whether and how voters use information to hold politicians accountable, and cumulative learning.
+* women's political mobilisation, 
+* persistence and erosion of ideology in political parties, and
+* historical origins of ethnic conflict.
 
 #### Publications
+
+##### Journal Articles
+* Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials (with [EGAP Metaketa I team](http://egap.org/metaketa/metaketa-information-and-accountability)). Forthcoming. _Science Advances_
+
+##### Book chapters
 * Chapter 11: Meta-analysis (with [Thad Dunning](http://www.thaddunning.com/), [Clara Bicalho](https://wzb.eu/en/persons/clara-bicalho-maia-correia), [Guy Grossman](https://web.sas.upenn.edu/ggros/), [Macartan Humphreys](http://www.macartan.nyc/), [Susan Hyde](http://susan.hyde.co/), [Craig Mcintosh](http://gps.ucsd.edu/faculty-directory/craig-mcintosh.html) and [Gareth Nellis](http://www.garethnellis.com/)) in _Information, Accountability and Cumulative Learning: Lessons from Metaketa I_. Forthcoming. Cambridge University Press.
 
 * Do Gram Panchayats Get Their Money? A Case Study of Gram Panchayat Fund Flows in Birbhum District, West Bengal (with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre) and [Yamini Aiyar](http://www.cprindia.org/people/yamini-aiyar)) in _Decentralisation, Governance and Development: An Indian Perspective_. 2017. Orient Black Swan.
-
-#### Revision requested
-* Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials (with [EGAP Metaketa I team](http://egap.org/metaketa/metaketa-information-and-accountability)). 
-	* Revise and resubmit at _Science Advances_
 
 #### Working papers
 * Partisan vs Policy Bias: An Experiment on News Credibility in India 
