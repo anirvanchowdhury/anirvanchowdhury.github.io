@@ -40,7 +40,7 @@ Stuff I like. Not in a strict preference order.
 		* King Crimson: [Discipline](https://www.allmusic.com/album/discipline-mw0000196148)
 		* Nick Drake: [Pink Moon](https://www.allmusic.com/album/pink-moon-mw0000315191)
 		* Jimi Hendrix: [Blues](https://www.allmusic.com/album/blues-mw0000111756)
-		* Bob Dylan: [Time out of Mind](https://www.allmusic.com/album/time-out-of-mind-mw0000026150)
+		* Bob Dylan: [Time out of Mind](https://www.allmusic.com/album/time-out-of-mind-mw0000026150), [Blood on the Tracks](https://www.allmusic.com/album/blood-on-the-tracks-mw0000189846)
 		* Dream Theater: [Images and Words](https://www.allmusic.com/album/images-and-words-mw0000079922)
 		* Patti Smith: [Horses](https://www.allmusic.com/album/horses-mw0000198924)
 		* Rage Against the Machine: [The Battle of Los Angeles](https://www.allmusic.com/album/the-battle-of-los-angeles-mw0000670986)
@@ -52,7 +52,7 @@ Stuff I like. Not in a strict preference order.
 		* Pink Floyd [Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days.
 		* Opeth: [The Roundhouse Tapes](https://www.youtube.com/watch?v=JOHaq1t_zeo), [Lamentations](https://www.youtube.com/watch?v=3LMxLIcRWy8&list=PL_9gWeiShHFH5wNBL7VjQi2HxVUFLpI9d)
 		* Isobel Campbell and Mark Lanegan: [La Route Du Rock](https://www.youtube.com/watch?v=tmbGtsg0Do8)
-		* Motherjane: An Indian prog rock band that was the rage when I was in undergrad. Here's a [live playlist](https://www.youtube.com/playlist?list=PLHlE0Z6QiDY5JFHBG8x39bcKjAdtgQBhY) and a link to their second album, [Maktub](https://open.spotify.com/album/4o9iNsCsib1K9qWz81tNIe). They had tons of line-up changes since 2010-11, and haven't been very active of late. Nonetheless, they released a pretty good [single](https://www.youtube.com/watch?v=-70NQaWvnFU) c. 2013.
+		* Motherjane: An Indian prog band that was the rage when I was in undergrad. Here's a [live playlist](https://www.youtube.com/playlist?list=PLHlE0Z6QiDY5JFHBG8x39bcKjAdtgQBhY) and a link to their second album, [Maktub](https://open.spotify.com/album/4o9iNsCsib1K9qWz81tNIe). They had tons of line-up changes since 2010-11, and haven't been very active of late. Nonetheless, they released a pretty good [single](https://www.youtube.com/watch?v=-70NQaWvnFU) c. 2013.
 
 ### Random (not really) stuff
-* [Conan Writes Chicago Blues Songs With School Kids](https://www.youtube.com/watch?v=J7f26d-AIrM)
+* [Conan writes Chicago Blues Songs with School Kids](https://www.youtube.com/watch?v=J7f26d-AIrM)

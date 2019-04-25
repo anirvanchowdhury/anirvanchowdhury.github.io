@@ -6,10 +6,10 @@ permalink: /research/index.html
 
 ### Research
 My broad research interests lie in comparative politics and the political economy of development. My current projects centre on: 
-* whether and how voters use information to hold politicians accountable
-* public service delivery in decentralised contexts,
 * women's political mobilisation, 
-* persistence and erosion of ideology in political parties, and
+* public service delivery in decentralised contexts,
+* persistence and erosion of ideology in political parties
+* whether and how voters use information to hold politicians accountable, and
 * historical origins of ethnic conflict.
 
 #### Publications
