@@ -40,5 +40,8 @@ My broad research interests lie in comparative politics and the political econom
 ##### Women and politics 
 * [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html)) 
 
+* [Why so few women politicians get elected in India](https://www.livemint.com/elections/lok-sabha-elections/why-so-few-women-politicians-get-elected-in-india-1557134520487.html) (with [Pranav Gupta](https://polisci.berkeley.edu/people/person/pranav-gupta) and [Bhumi Purohit](https://polisci.berkeley.edu/people/person/bhumi-purohit))
+
+
 #### Media mentions
 * [Assembly polls verdict: Will women decide the vote today?](https://mumbaimirror.indiatimes.com/news/india/assembly-polls-verdict-will-women-decide-the-vote-today/articleshow/67032480.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
