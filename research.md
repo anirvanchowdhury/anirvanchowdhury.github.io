@@ -15,7 +15,7 @@ My broad research interests lie in comparative politics and the political econom
 #### Publications
 
 ##### Journal Articles
-* Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials (with [EGAP Metaketa I team](http://egap.org/metaketa/metaketa-information-and-accountability)). Forthcoming. _Science Advances_
+* Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials (with Thad Dunning, Guy Grossman, Macar-tan Humphreys, Susan Hyde, Craig McIntosh, Gareth Nellis, Claire L. Adida, Eric Arias, Clara Bicalho, Taylor C. Boas, Mark T. Buntaine, Simon Chauchard, Jessica Gottlieb, F. Daniel Hidalgo, Marcus Holmlund, Ryan Jablonski, Eric Kramon, Horacio Larreguy, Malte Lierl, John Marshall, Gwyneth McClendon, Marcus A. Melo, Daniel L. Nielson, Paula M. Pickering, Melina R. Platas, Pablo Querubin, Pia Raffler, and Neelanjan Sircar). [_Science Advances_](https://advances.sciencemag.org/content/5/7/eaaw2612.full)
 
 ##### Book chapters
 * Chapter 11: Meta-analysis (with [Thad Dunning](http://www.thaddunning.com/), [Clara Bicalho](https://wzb.eu/en/persons/clara-bicalho-maia-correia), [Guy Grossman](https://web.sas.upenn.edu/ggros/), [Macartan Humphreys](http://www.macartan.nyc/), [Susan Hyde](http://susan.hyde.co/), [Craig Mcintosh](http://gps.ucsd.edu/faculty-directory/craig-mcintosh.html) and [Gareth Nellis](http://www.garethnellis.com/)) in _Information, Accountability and Cumulative Learning: Lessons from Metaketa I_. Forthcoming. Cambridge University Press.
@@ -32,9 +32,9 @@ My broad research interests lie in comparative politics and the political econom
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
 
 #### Work in progress
-* The Colonial Origins of Hindu-Muslim Violence in India (with [Aaditya Dar](https://aadityadar.com/) and [Rahul Verma](http://polisci.berkeley.edu/people/person/rahul-verma))
-
 * A Field Experiment on Engaging Women Voters in India (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
+
+* The Colonial Origins of Hindu-Muslim Violence in India (with [Aaditya Dar](https://aadityadar.com/) and [Rahul Verma](http://polisci.berkeley.edu/people/person/rahul-verma))
 
 #### Other writing
 ##### Women and politics 
