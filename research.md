@@ -43,7 +43,7 @@ My broad research interests lie in comparative politics and the political econom
 * [Why so few women politicians get elected in India](https://www.livemint.com/elections/lok-sabha-elections/why-so-few-women-politicians-get-elected-in-india-1557134520487.html) (with [Pranav Gupta](https://polisci.berkeley.edu/people/person/pranav-gupta) and [Bhumi Purohit](https://polisci.berkeley.edu/people/person/bhumi-purohit))
 
 ##### Elections
-* [BJP gained in irregular colonies, lost SC areas](https://www.hindustantimes.com/assembly-elections/bjp-gained-in-irregular-colonies-lost-sc-areas/story-sDxORRAPLDcQcXjhZs4IAL.html) (with [Neelanjan Sircar](https://www.cprindia.org/people/neelanjan-sircar)) and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy) 
+* [BJP gained in irregular colonies, lost SC areas](https://www.hindustantimes.com/assembly-elections/bjp-gained-in-irregular-colonies-lost-sc-areas/story-sDxORRAPLDcQcXjhZs4IAL.html) (with [Neelanjan Sircar](https://www.cprindia.org/people/neelanjan-sircar) and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy)) 
 
 
 #### Media mentions
