@@ -5,12 +5,7 @@ permalink: /research/index.html
 ---
 
 ### Research
-My broad research interests lie in comparative politics and the political economy of development. My current projects centre on: 
-* women's political mobilisation, 
-* public service delivery in decentralised contexts,
-* persistence and erosion of ideology in political parties
-* voters' use of information to hold politicians accountable, and
-* historical origins of ethnic conflict.
+My broad research interests lie in comparative politics and the political economy of development. My current projects centre on women's political participation, how cultural norms shape political behavior, religious nationalism, and public service delivery in decentralised contexts.
 
 #### Publications
 
@@ -23,16 +18,22 @@ My broad research interests lie in comparative politics and the political econom
 2017 Do Gram Panchayats Get Their Money? A Case Study of Gram Panchayat Fund Flows in Birbhum District, West Bengal (with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre) and [Yamini Aiyar](http://www.cprindia.org/people/yamini-aiyar)) in _Decentralisation, Governance and Development: An Indian Perspective_. Orient Black Swan.
 
 #### Working papers
-* Partisan vs Policy Bias: An Experiment on News Credibility in India 
-
 * Electoral Dominance in Democratic Regimes: Evidence from West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
 
 * Party Alignment and Fiscal Transfers: Evidence from West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
 
+* Partisan vs Policy Bias: An Experiment on News Credibility in India 
+
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
 
 #### Work in progress
-* A Field Experiment on Engaging Women Voters in India (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
+* How do Political Parties Mobilize Women? Theory and Evidence from India [Dissertation project]
+
+* A Political Campaign Field Experiment on Engaging Women Voters in India (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
+
+* Television, Cultural Change, and the Rise of Religious Nationalism in India (with [Rikhil Bhavnani](https://faculty.polisci.wisc.edu/bhavnani/) and [Gareth Nellis](http://www.garethnellis.com/))
+
+* The General Equilibrium Effects of Contentious Politics (with Leja Joe Mathew, [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy), [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh) and [Priyadarshini Singh](https://www.cprindia.org/people/priyadarshini-singh))
 
 * The Colonial Origins of Hindu-Muslim Violence in India (with [Aaditya Dar](https://aadityadar.com/) and [Rahul Verma](http://polisci.berkeley.edu/people/person/rahul-verma))
 
