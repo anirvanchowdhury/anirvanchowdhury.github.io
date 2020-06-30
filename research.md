@@ -33,7 +33,7 @@ My broad research interests lie in comparative politics and the political econom
 
 * Television, Cultural Change, and the Rise of Religious Nationalism in India (with [Rikhil Bhavnani](https://faculty.polisci.wisc.edu/bhavnani/) and [Gareth Nellis](http://www.garethnellis.com/))
 
-* The General Equilibrium Effects of Contentious Politics (with Leja Joe Mathew, [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy), [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh) and [Priyadarshini Singh](https://www.cprindia.org/people/priyadarshini-singh))
+* Private Effects of Public Action (with Leja Joe Mathew, [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy), [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh) and [Priyadarshini Singh](https://www.cprindia.org/people/priyadarshini-singh))
 
 * The Colonial Origins of Hindu-Muslim Violence in India (with [Aaditya Dar](https://aadityadar.com/) and [Rahul Verma](http://polisci.berkeley.edu/people/person/rahul-verma))
 
