@@ -48,13 +48,15 @@ Stuff I like. Not in a strict preference order.
 		* Rage Against the Machine: [Rage Against the Machine](https://www.allmusic.com/album/rage-against-the-machine-mw0000091696), [The Battle of Los Angeles](https://www.allmusic.com/album/the-battle-of-los-angeles-mw0000670986)
 
 	* Live
+		* Richie Kotzen: [Live 2015](https://www.youtube.com/watch?v=LkKBcEV75WE)
 		* Alice in Chains: [Unplugged](https://www.youtube.com/watch?v=VzV6-3kyXKA)
 		* PJ Harvey: [Glastonbury](https://www.youtube.com/watch?v=bkJhCOQaCDc)
 		* The Dead Weather: [Prive](https://www.youtube.com/watch?v=SRyYk0FBOXU&t=4s)
-		* Pink Floyd [Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days.
+		* Pink Floyd [Live at Pompeii](https://www.youtube.com/watch?v=YtZqNAI4pBk) - this is a link to Careful with that Axe, Eugene but the rest are great too! Especially Echoes, and One of These Days!
 		* Opeth: [The Roundhouse Tapes](https://www.youtube.com/watch?v=JOHaq1t_zeo), [Lamentations](https://www.youtube.com/watch?v=3LMxLIcRWy8&list=PLHlE0Z6QiDY5JFHBG8x39bcKjAdtgQBhY_9gWeiShHFH5wNBL7VjQi2HxVUFLpI9d)
 		* Isobel Campbell and Mark Lanegan: [La Route Du Rock](https://www.youtube.com/watch?v=tmbGtsg0Do8)
 		* Motherjane: An Indian prog band that was the rage when I was in undergrad. Here's a [live playlist](https://www.youtube.com/playlist?list=PLHlE0Z6QiDY5JFHBG8x39bcKjAdtgQBhY) and a link to their second album, [Maktub](https://open.spotify.com/album/4o9iNsCsib1K9qWz81tNIe). They had tons of line-up changes since 2010-11, and haven't been very active of late. Nonetheless, they released a pretty good [single](https://www.youtube.com/watch?v=-70NQaWvnFU) c. 2013.
 
 ### Random (not really) stuff
 * [Conan writes Chicago blues songs with school kids](https://www.youtube.com/watch?v=J7f26d-AIrM)
+* And if I speak of Motherjane, I can't leave out Warren Mendonsa and his solo project Blackstratblues, Soulmate, Paradigm Shift, and the Anand Bhaskar Collective.
