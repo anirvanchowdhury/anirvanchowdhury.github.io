@@ -5,7 +5,7 @@ permalink: /research/index.html
 ---
 
 ### Research
-My broad research interests lie in comparative politics and the political economy of development. My current projects centre on women's political participation, how cultural norms shape political behavior, religious nationalism, and public service delivery in decentralised contexts.
+I study the links between social norms and political participation with a focus on gender and religious conservatism in South Asia. My dissertation-based book project examines how political parties wield social and religious norms to mobilize women in India, its implications for women's agency as well as broader effects on democratization and democratic backsliding. In conjunction with this, a complementary research agenda examines the origins and spread of religious conservatism, how regressive norms can be transformed to foster inclusion, and the effects of inclusion on the marginalized and historically entrenched groups.
 
 #### Publications
 
@@ -27,15 +27,13 @@ My broad research interests lie in comparative politics and the political econom
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
 
 #### Work in progress
-* How do Political Parties Mobilize Women? Theory and Evidence from India [Dissertation project]
+* Religiously Conservative Parties and Women's Political Mobilization [Dissertation project]
 
-* A Political Campaign Field Experiment on Engaging Women Voters in India (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
+* Mobilizing Women at Scale: Mixed Evidence from a Field Experiment (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
 
 * Television, Cultural Change, and the Rise of Religious Nationalism in India (with [Rikhil Bhavnani](https://faculty.polisci.wisc.edu/bhavnani/) and [Gareth Nellis](http://www.garethnellis.com/))
 
-* Private Effects of Public Action (with Leja Joe Mathew, [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy), [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh) and [Priyadarshini Singh](https://www.cprindia.org/people/priyadarshini-singh))
-
-* The Colonial Origins of Hindu-Muslim Violence in India (with [Aaditya Dar](https://aadityadar.com/) and [Rahul Verma](http://polisci.berkeley.edu/people/person/rahul-verma))
+* Majoritarian Responses to Minority Mobilization: Evidence from Citizenship Protests in Delhi (with [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh), [Leja Joe Mathew](https://polisci.brown.edu/people/leja-joe-mathew), and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy))
 
 #### Other writing
 ##### Women and politics 
