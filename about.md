@@ -6,7 +6,7 @@ layout: page
 
 Hi, I am a PhD candidate at the [Charles and Louise Travers department of Political Science](http://polisci.berkeley.edu/), and a Research Associate at the [Center for the Politics of Development](http://cpd.berkeley.edu/) at the University of California, Berkeley. Welcome to my website!
 
-My broad research interests lie in comparative politics and the political economy of development. My current research focuses on how social and cultural norms shape the ways political parties mobilize women, and the implications of these strategies for the rise of religious conservatism and democratic backsliding.
+My broad research interests lie in comparative politics, the political economy of development and the politics of South Asia. My current research focuses on how social and cultural norms shape the ways political parties mobilize women, and the implications of these strategies for the rise of religious conservatism and democratic backsliding. My research has been generously supported by the APSA-NSF Doctoral Dissertation Research Improvement Grant, the Weiss Family Fund, the J-PAL Governance Initiative, the Global Religion Research Initiative and UC Berkeley's Graduate Division and Center for Contemporary India.
 
 <!--- 
 ### Research

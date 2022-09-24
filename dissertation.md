@@ -1,11 +1,8 @@
 ---
-title: Book Project
+title: Dissertation
 layout: page
 permalink: /dissertation/index.html
 ---
-
-### Book Project
-
 
 **Dissertation and Book Project: Religiously Conservative Parties and Women’s Political Mobilization** (Click [here](https://www.dropbox.com/s/egzb70nq6751vft/writing_sample_hq_chowdhury.pdf?dl=0) for the introduction and two empirical chapters.)
 
