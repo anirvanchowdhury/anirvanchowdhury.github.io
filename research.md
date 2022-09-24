@@ -7,6 +7,7 @@ permalink: /research/index.html
 ### Research
 I study the links between social norms and political participation with a focus on gender and religious conservatism in South Asia. My dissertation-based book project examines how political parties wield social and religious norms to mobilize women in India, its implications for women's agency as well as broader effects on democratization and democratic backsliding. In conjunction with this, a complementary research agenda examines the origins and spread of religious conservatism, how regressive norms can be transformed to foster inclusion, and the effects of inclusion on the marginalized and historically entrenched groups.
 
+
 #### Publications
 
 ##### Journal Articles
@@ -27,7 +28,7 @@ I study the links between social norms and political participation with a focus 
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
 
 #### Work in progress
-* Religiously Conservative Parties and Women's Political Mobilization [Dissertation project]
+* Religiously Conservative Parties and Women's Political Mobilization [Dissertation project]. Click [here](https://www.dropbox.com/s/egzb70nq6751vft/writing_sample_hq_chowdhury.pdf?dl=0) for the introduction and two empirical chapters.
 
 * Mobilizing Women at Scale: Mixed Evidence from a Field Experiment (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
 
