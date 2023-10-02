@@ -8,7 +8,7 @@ permalink: /research/index.html
 I study the links between social norms and political participation with a focus on gender, religion and conservatism in South Asia. My dissertation and book project examines how political parties wield social and religious norms to mobilize women in India. A complementary research agenda examines the origins and spread of religious conservatism, how regressive norms can be transformed to foster inclusion, and the effects of inclusion on the marginalized and historically entrenched groups. 
 
 
-[**Book Project: Religiously Conservative Parties and Women's Political Mobilization**](https://anirvanchowdhury.github.io/book/)
+[**Book Project: Domesticating Politics: How Religiously Conservative Parties Mobilize Women**](https://anirvanchowdhury.github.io/book/)
 
 One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a right-wing religiously conservative party whose ideology of _Hindutva_ (Hindu-ness) assigns women to traditional gender roles within the household. What explains the BJP’s success at engaging women in public spaces? 
 
