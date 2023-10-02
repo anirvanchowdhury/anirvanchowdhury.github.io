@@ -56,7 +56,7 @@ email: anirvanc@berkeley.edu
 authors:
     johndoe:
         name: Anirvan Chowdhury
-        bio: PhD student, Department of Political Science, University of California, Berkeley
+        bio: Postdoctoral Fellow, Weatherhead Center for International Affairs, Harvard University
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
@@ -83,7 +83,7 @@ width: large
 about: true
 research: true
 teaching: true
-dissertation: true
+book: true
 # fun: true
 # blog: true
 

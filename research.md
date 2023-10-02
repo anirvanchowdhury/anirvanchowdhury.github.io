@@ -10,11 +10,9 @@ I study the links between social norms and political participation with a focus 
 
 **Book Project: Religiously Conservative Parties and Women's Political Mobilization**
 
-One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a right-wing religiously conservative party whose ideology of _Hindutva_ (Hindu-ness)  assigns women to traditional gender roles within the household. What explains the BJP’s success at engaging women in public spaces? I argue that in patriarchal settings where women’s public partisan engagement can be viewed as transgressive—and therefore costly—men act as gatekeepers to women’s participation. However, religiously conservative parties, perhaps counter-intuitively, may be able to reduce these costs. Drawing on (1) extensive qualitative and ethnographic fieldwork conducted over a span of three years, (2) original text analysis of nearly half a million Twitter posts, and (3) large-scale surveys and experiments conducted with (a) political activists, and (b) women and their domestic gatekeepers, I show that the BJP’s ability to mobilize women stems from framing its politics as _seva_, a religious and cultural norm of selfless service. Crucially _seva_ overlaps women's domestic caregiving roles as mothers and dutiful wives. Hence, framing politics as _seva_ extends the private sphere to the public. Furthermore, because of this reinforcement of women’s traditional roles, political _seva_ does not challenge men’s authority within the family, or patriarchal structures of power at large. Consequently, men unblock women’s participation when it is articulated in terms of seva. 
+One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a right-wing religiously conservative party whose ideology of _Hindutva_ (Hindu-ness) assigns women to traditional gender roles within the household. What explains the BJP’s success at engaging women in public spaces? 
 
-In addition, I examine the impications of _seva_-based participation seva for women's personal and political agency. I also shed light on the apparent paradox of democratic backsliding amidst rising political participation in India. In doing so, I highlight how ideas of allegiant participation propelled by the BJP crowd out assertive participation centered on individual rights and seeking accountability from the state that are features of robust resilient democracies. 
-
-For more details, please click [here](https://anirvanchowdhury.github.io/dissertation/). In case you would like to read the introduction and two empirical chapters, please click [here](https://www.dropbox.com/s/egzb70nq6751vft/writing_sample_hq_chowdhury.pdf?dl=0).
+For more details, and a sketch of the argument, research design, and evidence, please click [here](https://anirvanchowdhury.github.io/book/)!
 
 
 #### Publications
@@ -37,7 +35,9 @@ For more details, please click [here](https://anirvanchowdhury.github.io/dissert
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
 
 #### Work in progress
-* Religiously Conservative Parties and Women's Political Mobilization [Dissertation project]. Click [here](https://www.dropbox.com/s/egzb70nq6751vft/writing_sample_hq_chowdhury.pdf?dl=0) for the introduction and two empirical chapters.
+* Religiously Conservative Parties and Women's Political Mobilization [Book project]. 
+
+* [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/el1d15dowce19cyn664se/chowdhury-domesticating_politics-20231002.pdf?rlkey=erakmhoxfcp27k65kjlstmg26&dl=0)
 
 * Mobilizing Women at Scale: Mixed Evidence from a Field Experiment (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
 
