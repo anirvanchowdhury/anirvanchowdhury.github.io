@@ -12,7 +12,7 @@ I study the links between social norms and political participation with a focus 
 
 One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a right-wing religiously conservative party whose ideology of _Hindutva_ (Hindu-ness) assigns women to traditional gender roles within the household. What explains the BJP’s success at engaging women in public spaces? 
 
-For a sketch of the argument, research design, and evidence, please click [here](https://anirvanchowdhury.github.io/book/)! In case you want to know more, please [e-mail me](achowdhury@fas.harvard.edu)!
+For a sketch of the argument, research design, and evidence, please click [here](https://anirvanchowdhury.github.io/book/)! In case you want to know more, please e-mail me at achowdhury[at]fas[dot]harvard[dot]edu!
 
 
 #### Publications
