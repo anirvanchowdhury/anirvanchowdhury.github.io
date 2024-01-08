@@ -47,6 +47,8 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 #### Other writing
 ##### Women and politics 
+* [Why women prefer Modi’s BJP](https://indianexpress.com/article/opinion/women-prefer-modi-bjp-9093597/) 
+
 * [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html)) 
 
 * [Why so few women politicians get elected in India](https://www.livemint.com/elections/lok-sabha-elections/why-so-few-women-politicians-get-elected-in-india-1557134520487.html) (with [Pranav Gupta](https://polisci.berkeley.edu/people/person/pranav-gupta) and [Bhumi Purohit](https://polisci.berkeley.edu/people/person/bhumi-purohit))
@@ -56,4 +58,6 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Media mentions
+* [The Christian Science Monitor: India’s new cadres of equality](https://www.csmonitor.com/text_edition/Commentary/the-monitors-view/2024/0104/India-s-new-cadres-of-equality)
+
 * [Assembly polls verdict: Will women decide the vote today?](https://mumbaimirror.indiatimes.com/news/india/assembly-polls-verdict-will-women-decide-the-vote-today/articleshow/67032480.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
