@@ -58,6 +58,8 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Media mentions
-* [The Christian Science Monitor: India’s new cadres of equality](https://www.csmonitor.com/text_edition/Commentary/the-monitors-view/2024/0104/India-s-new-cadres-of-equality)
+* [India’s new cadres of equality](https://www.csmonitor.com/text_edition/Commentary/the-monitors-view/2024/0104/India-s-new-cadres-of-equality)
+
+* [PM Modi, the provider, and women labharthi](https://www.hindustantimes.com/opinion/pmmodi-the-provider-and-women-labharthi-101701614523090.html)
 
 * [Assembly polls verdict: Will women decide the vote today?](https://mumbaimirror.indiatimes.com/news/india/assembly-polls-verdict-will-women-decide-the-vote-today/articleshow/67032480.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
