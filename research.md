@@ -47,7 +47,7 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 #### Other writing
 ##### Women and politics 
-* [Why women prefer Modi’s BJP](https://indianexpress.com/article/opinion/women-prefer-modi-bjp-9093597/) 
+* [Politics as _Seva_](https://indianexpress.com/article/opinion/women-prefer-modi-bjp-9093597/) 
 
 * [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html)) 
 
