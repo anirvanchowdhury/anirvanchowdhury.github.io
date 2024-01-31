@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Hi, I am a Postdoctoral Fellow at the Weatherhead Scholars Program at Harvard University's [Weatherhead Center for International Affairs](https://wcfia.harvard.edu/). I completed my PhD candidate at the [Charles and Louise Travers department of Political Science](http://polisci.berkeley.edu/) at the University of California, Berkeley, where I was a Research Associate at the [Center for the Politics of Development](http://cpd.berkeley.edu/). Welcome to my website!
+<!--- 
+	Hi, I am a Postdoctoral Fellow at the Weatherhead Scholars Program at Harvard University's [Weatherhead Center for International Affairs](https://wcfia.harvard.edu/). I completed my PhD candidate at the [Charles and Louise Travers department of Political Science](http://polisci.berkeley.edu/) at the University of California, Berkeley, where I was a Research Associate at the [Center for the Politics of Development](http://cpd.berkeley.edu/). Welcome to my website!
+--->
 
 I study the links between social norms and political participation with a focus on gender and religious conservatism in South Asia. My dissertation-based book project, [__Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India__](https://anirvanchowdhury.github.io/book/) proposes a theory of _norm-compliant mobilization_ to explain how the right-wing Hindu nationalist Bharatiya Janata Party (BJP) wields social and religious norms to mobilize women. I also explore the wider implications of this mobilization for women's agency in conservative parties and movements, as well as the paradox of democratic backsliding amidst rising political participation in India. In conjunction with this, a complementary research agenda examines the origins and spread of religious conservatism, how regressive norms can be transformed to foster inclusion, and the effects of inclusion on the marginalized and historically entrenched groups.
 
