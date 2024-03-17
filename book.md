@@ -4,7 +4,7 @@ layout: page
 permalink: /book/index.html
 ---
 
-**Book Project: _Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India_** (You can find a [paper version of the argument](https://www.dropbox.com/scl/fi/el1d15dowce19cyn664se/chowdhury-domesticating_politics-20231002.pdf?rlkey=erakmhoxfcp27k65kjlstmg26&dl=0), as well as the [introduction chapter](https://www.dropbox.com/scl/fi/snyzjf5swrb74xe7q1a0i/chowdhury_dissertation_20230724_ch1.pdf?rlkey=u3vc2c9ypek98te9cx4w1flds&dl=0). Feel free to get in touch in case you would like to read more.)
+**Book Project: _Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India_** (You can find a [paper version of the argument](https://www.dropbox.com/scl/fi/el1d15dowce19cyn664se/chowdhury-domesticating_politics-20231002.pdf?rlkey=erakmhoxfcp27k65kjlstmg26&dl=0)])
 
 Across the democratic world, religious and conservative parties must navigate a delicate line as they encourage women to participate in politics. On the one hand, their party ideologies and branding allude to a time when women were not supposed to play an active role in civic engagement. But on the other hand, electoral pressures and universal adult franchise compels them to mobilize women. Frequently, this mobilization can challenge patriarchal norms governing women’s behavior, threaten men’s authority within the family, and even undermine the party’s own ideology. Yet a large number of religiously conservative parties have—across time and space—enjoyed considerable success in mobilizing women voters. How do these parties navigate this delicate line?
 
