@@ -58,6 +58,8 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Media mentions
+* [How Young Women In India Are Carving Space For Themselves In Politics](https://behanbox.com/2024/03/25/how-young-women-in-india-are-carving-space-for-themselves-in-politics/)
+
 * [India’s new cadres of equality](https://www.csmonitor.com/text_edition/Commentary/the-monitors-view/2024/0104/India-s-new-cadres-of-equality)
 
 * [PM Modi, the provider, and women labharthi](https://www.hindustantimes.com/opinion/pmmodi-the-provider-and-women-labharthi-101701614523090.html)
