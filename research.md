@@ -26,7 +26,7 @@ For a sketch of the argument, research design, and evidence, please click [here]
 2017 Do Gram Panchayats Get Their Money? A Case Study of Gram Panchayat Fund Flows in Birbhum District, West Bengal (with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre) and [Yamini Aiyar](http://www.cprindia.org/people/yamini-aiyar)) in _Decentralisation, Governance and Development: An Indian Perspective_. Orient Black Swan.
 
 #### Working papers
-* [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/el1d15dowce19cyn664se/chowdhury-domesticating_politics-20231002.pdf?rlkey=erakmhoxfcp27k65kjlstmg26&dl=0)
+* [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/dn1bi860qnegd4w1jnu1f/Chowdhury_DomesticatingPolitics_20240327.pdf?rlkey=84mc52vbypmtg20t5l1l6006p&dl=0) [submitted]
 
 * Electoral Dominance in Democratic Regimes: Evidence from West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
 
