@@ -58,10 +58,12 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Media mentions
-* [How Young Women In India Are Carving Space For Themselves In Politics](https://behanbox.com/2024/03/25/how-young-women-in-india-are-carving-space-for-themselves-in-politics/)
+* [As India votes, women and youth could put Modi and his BJP over the top](https://www.washingtonpost.com/world/2024/04/18/india-election-modi-women-youth/), The Washington Post
 
-* [India’s new cadres of equality](https://www.csmonitor.com/text_edition/Commentary/the-monitors-view/2024/0104/India-s-new-cadres-of-equality)
+* [How Young Women In India Are Carving Space For Themselves In Politics](https://behanbox.com/2024/03/25/how-young-women-in-india-are-carving-space-for-themselves-in-politics/), BehanBox
 
-* [PM Modi, the provider, and women labharthi](https://www.hindustantimes.com/opinion/pmmodi-the-provider-and-women-labharthi-101701614523090.html)
+* [India’s new cadres of equality](https://www.csmonitor.com/text_edition/Commentary/the-monitors-view/2024/0104/India-s-new-cadres-of-equality), The Christian Science Monitor
 
-* [Assembly polls verdict: Will women decide the vote today?](https://mumbaimirror.indiatimes.com/news/india/assembly-polls-verdict-will-women-decide-the-vote-today/articleshow/67032480.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst)
+* [PM Modi, the provider, and women labharthi](https://www.hindustantimes.com/opinion/pmmodi-the-provider-and-women-labharthi-101701614523090.html), The Hindustan Times
+
+* [Assembly polls verdict: Will women decide the vote today?](https://mumbaimirror.indiatimes.com/news/india/assembly-polls-verdict-will-women-decide-the-vote-today/articleshow/67032480.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst), The Mumbai Mirror
