@@ -47,6 +47,9 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 #### Other writing
 ##### Women and politics 
+
+* [How the BJP Wins Over Women](https://carnegieendowment.org/2024/04/26/how-bjp-wins-over-women-pub-92288) 
+
 * [Politics as _Seva_](https://indianexpress.com/article/opinion/women-prefer-modi-bjp-9093597/) 
 
 * [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html)) 
@@ -58,6 +61,8 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Media mentions
+* [Everybody loves women. Especially when they’re out voting](https://www.hindustantimes.com/opinion/everybody-loves-women-especially-when-they-re-out-voting-101714305344483.html), Hindustan Times
+
 * [As India votes, women and youth could put Modi and his BJP over the top](https://www.washingtonpost.com/world/2024/04/18/india-election-modi-women-youth/), The Washington Post
 
 * [How Young Women In India Are Carving Space For Themselves In Politics](https://behanbox.com/2024/03/25/how-young-women-in-india-are-carving-space-for-themselves-in-politics/), BehanBox
