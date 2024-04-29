@@ -61,6 +61,8 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Media mentions
+* [How BJP is ‘winning over’ women with ‘seva’ & trend of IITians joining political consultancies](https://theprint.in/global-pulse/how-bjp-is-winning-over-women-with-seva-trend-of-iitians-joining-political-consultancies/2061709/), The Print
+
 * [Everybody loves women. Especially when they’re out voting](https://www.hindustantimes.com/opinion/everybody-loves-women-especially-when-they-re-out-voting-101714305344483.html), Hindustan Times
 
 * [As India votes, women and youth could put Modi and his BJP over the top](https://www.washingtonpost.com/world/2024/04/18/india-election-modi-women-youth/), The Washington Post
