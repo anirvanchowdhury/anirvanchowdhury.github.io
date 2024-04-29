@@ -48,16 +48,18 @@ For a sketch of the argument, research design, and evidence, please click [here]
 #### Other writing
 ##### Women and politics 
 
-* [How the BJP Wins Over Women](https://carnegieendowment.org/2024/04/26/how-bjp-wins-over-women-pub-92288) 
+* [Elections 2024: How the BJP wins over women voters](https://www.hindustantimes.com/india-news/elections-2024-how-the-bjp-wins-over-women-voters-101714331723300.html), Hindustan Times 
 
-* [Politics as _Seva_](https://indianexpress.com/article/opinion/women-prefer-modi-bjp-9093597/) 
+* [How the BJP Wins Over Women](https://carnegieendowment.org/2024/04/26/how-bjp-wins-over-women-pub-92288), Carnegie Endowment for International Peace 
 
-* [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html)) 
+* [Politics as _Seva_](https://indianexpress.com/article/opinion/women-prefer-modi-bjp-9093597/), The Indian Express
 
-* [Why so few women politicians get elected in India](https://www.livemint.com/elections/lok-sabha-elections/why-so-few-women-politicians-get-elected-in-india-1557134520487.html) (with [Pranav Gupta](https://polisci.berkeley.edu/people/person/pranav-gupta) and [Bhumi Purohit](https://polisci.berkeley.edu/people/person/bhumi-purohit))
+* [Women voters in Madhya Pradesh want jobs, not sanitary napkins and cooking gas](https://theprint.in/opinion/women-voters-in-madhya-pradesh-want-jobs-not-sanitary-napkins-and-cooking-gas/155742/) (with [Khushdeep Kaur Malhotra](https://www.ideasforindia.in/profile/khusdeep.html)), The Print
+
+* [Why so few women politicians get elected in India](https://www.livemint.com/elections/lok-sabha-elections/why-so-few-women-politicians-get-elected-in-india-1557134520487.html) (with [Pranav Gupta](https://polisci.berkeley.edu/people/person/pranav-gupta) and [Bhumi Purohit](https://polisci.berkeley.edu/people/person/bhumi-purohit)), LiveMint
 
 ##### Elections
-* [BJP gained in irregular colonies, lost SC areas](https://www.hindustantimes.com/assembly-elections/bjp-gained-in-irregular-colonies-lost-sc-areas/story-sDxORRAPLDcQcXjhZs4IAL.html) (with [Neelanjan Sircar](https://www.cprindia.org/people/neelanjan-sircar) and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy)) 
+* [BJP gained in irregular colonies, lost SC areas](https://www.hindustantimes.com/assembly-elections/bjp-gained-in-irregular-colonies-lost-sc-areas/story-sDxORRAPLDcQcXjhZs4IAL.html) (with [Neelanjan Sircar](https://www.cprindia.org/people/neelanjan-sircar) and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy)), Hindustan Times
 
 
 #### Media mentions
@@ -71,6 +73,6 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 * [India’s new cadres of equality](https://www.csmonitor.com/text_edition/Commentary/the-monitors-view/2024/0104/India-s-new-cadres-of-equality), The Christian Science Monitor
 
-* [PM Modi, the provider, and women labharthi](https://www.hindustantimes.com/opinion/pmmodi-the-provider-and-women-labharthi-101701614523090.html), The Hindustan Times
+* [PM Modi, the provider, and women labharthi](https://www.hindustantimes.com/opinion/pmmodi-the-provider-and-women-labharthi-101701614523090.html), Hindustan Times
 
 * [Assembly polls verdict: Will women decide the vote today?](https://mumbaimirror.indiatimes.com/news/india/assembly-polls-verdict-will-women-decide-the-vote-today/articleshow/67032480.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst), The Mumbai Mirror
