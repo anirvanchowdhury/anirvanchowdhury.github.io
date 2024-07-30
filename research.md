@@ -63,6 +63,8 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Media mentions
+* [How a Secret BJP War Room Mobilized Female Voters to Win the Indian Elections](https://www.wired.com/story/how-a-secret-bjp-war-room-mobilized-female-voters-to-win-the-indian-elections/), Wired 
+
 * [How BJP is ‘winning over’ women with ‘seva’ & trend of IITians joining political consultancies](https://theprint.in/global-pulse/how-bjp-is-winning-over-women-with-seva-trend-of-iitians-joining-political-consultancies/2061709/), The Print
 
 * [Everybody loves women. Especially when they’re out voting](https://www.hindustantimes.com/opinion/everybody-loves-women-especially-when-they-re-out-voting-101714305344483.html), Hindustan Times
