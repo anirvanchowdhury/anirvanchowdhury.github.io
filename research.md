@@ -27,6 +27,8 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 #### Working papers
 * [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/dn1bi860qnegd4w1jnu1f/Chowdhury_DomesticatingPolitics_20240327.pdf?rlkey=84mc52vbypmtg20t5l1l6006p&dl=0) [submitted]
+	- Sage Best Paper in Comparative Politics, APSA 2025
+	- Weber Berst Paper in Religion and Politics, APSA 2025
 
 * Electoral Dominance in Democratic Regimes: Evidence from West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
 
