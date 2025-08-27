@@ -13,6 +13,10 @@ I study the links between social norms and political participation with a focus 
 One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a right-wing religiously conservative party whose ideology of _Hindutva_ (Hindu-ness) assigns women to traditional gender roles within the household. What explains the BJP’s success at engaging women in public spaces? 
 
 For a sketch of the argument, research design, and evidence, please click [here](https://anirvanchowdhury.github.io/book/)! In case you want to know more, please e-mail me at anirvan.chowdhury[at]louisville[dot]edu!
+	- _Mancur Olson Best Dissertation in Political Economy, APSA 2024_
+	- _Aaron Wildavsky Best Dissertation in Religion and Politics, APSA 2024_
+	- _Thomas E. Patterson Best Dissertation in Political Communication, APSA 2024_
+	- _Best Dissertation in Women, Gender, and Politics Research, APSA 2024_
 
 
 #### Publications
@@ -26,16 +30,15 @@ For a sketch of the argument, research design, and evidence, please click [here]
 2017 Do Gram Panchayats Get Their Money? A Case Study of Gram Panchayat Fund Flows in Birbhum District, West Bengal (with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre) and [Yamini Aiyar](http://www.cprindia.org/people/yamini-aiyar)) in _Decentralisation, Governance and Development: An Indian Perspective_. Orient Black Swan.
 
 #### Working papers
-* [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/dn1bi860qnegd4w1jnu1f/Chowdhury_DomesticatingPolitics_20240327.pdf?rlkey=84mc52vbypmtg20t5l1l6006p&dl=0) [submitted]
-	- Sage Best Paper in Comparative Politics, APSA 2025
-	- Weber Berst Paper in Religion and Politics, APSA 2025
+* [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/dn1bi860qnegd4w1jnu1f/Chowdhury_DomesticatingPolitics_20240327.pdf?rlkey=84mc52vbypmtg20t5l1l6006p&dl=0) [under review]
+	- _Sage Best Paper in Comparative Politics, APSA 2025_
+	- _Weber Best Paper in Religion and Politics, APSA 2025_
 
-* Electoral Dominance in Democratic Regimes: Evidence from West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
+* Parties against Democracy: The Unexpected Consequences of Electoral Quotas in India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
 
-* Party Alignment and Fiscal Transfers: Evidence from West Bengal, India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
+* Social Engineering through Schools (with Aaditya Dar (Independent Researcher), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kuman](https://chinmayakumar.com/))
 
-* Partisan vs Policy Bias: An Experiment on News Credibility in India 
-
+#### Resting paper
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
 
 #### Work in progress
@@ -46,6 +49,9 @@ For a sketch of the argument, research design, and evidence, please click [here]
 * Television, Cultural Change, and the Rise of Religious Nationalism in India (with [Rikhil Bhavnani](https://faculty.polisci.wisc.edu/bhavnani/) and [Gareth Nellis](http://www.garethnellis.com/))
 
 * Majoritarian Responses to Minority Mobilization: Evidence from Citizenship Protests in Delhi (with [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh), [Leja Joe Mathew](https://polisci.brown.edu/people/leja-joe-mathew), and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy))
+
+* Candidate Selection in Local Elections in India (with [Priyadarshi Amar](https://priyadarshiamar.github.io/), [Varun Karekurve-Ramachandra](https://www.varun-kr.com/), and [Kamya Yadav](https://kamyayadav.github.io/))
+
 
 #### Other writing
 ##### Women and politics 
