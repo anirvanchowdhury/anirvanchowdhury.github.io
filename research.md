@@ -10,14 +10,15 @@ I study the links between social norms and political participation with a focus 
 
 [**Book Project: Domesticating Politics: How Religiously Conservative Parties Mobilize Women**](https://anirvanchowdhury.github.io/book/)
 
-One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a right-wing religiously conservative party whose ideology of _Hindutva_ (Hindu-ness) assigns women to traditional gender roles within the household. What explains the BJP’s success at engaging women in public spaces? 
-
-For a sketch of the argument, research design, and evidence, please click [here](https://anirvanchowdhury.github.io/book/)! In case you want to know more, please e-mail me at anirvan.chowdhury[at]louisville[dot]edu!
-
 	- Mancur Olson Best Dissertation in Political Economy, APSA 2024
 	- Aaron Wildavsky Best Dissertation in Religion and Politics, APSA 2024
 	- Thomas E. Patterson Best Dissertation in Political Communication, APSA 2024
 	- Best Dissertation in Women, Gender, and Politics Research, APSA 2024
+
+One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a right-wing religiously conservative party whose ideology of _Hindutva_ (Hindu-ness) assigns women to traditional gender roles within the household. What explains the BJP’s success at engaging women in public spaces? 
+
+For a sketch of the argument, research design, and evidence, please click [here](https://anirvanchowdhury.github.io/book/)! In case you want to know more, please e-mail me at anirvan.chowdhury[at]louisville[dot]edu!
+
 
 
 #### Publications
@@ -32,7 +33,6 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 #### Working papers
 * [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/dn1bi860qnegd4w1jnu1f/Chowdhury_DomesticatingPolitics_20240327.pdf?rlkey=84mc52vbypmtg20t5l1l6006p&dl=0) [under review]
-
 	- Sage Best Paper in Comparative Politics, APSA 2025
 	- Weber Best Paper in Religion and Politics, APSA 2025
 
