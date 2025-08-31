@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am an Assistant Professor of Political Science and the Aung San Suu Kyi Endowed Chair in Asian Democracy at the University of Louisville's [department of political science](https://louisville.edu/politicalscience) and the [Center for Asian Democracy](https://louisville.edu/asiandemocracy). I study the political economy of development with a regional focus on South Asia, and a substantive emphasis on religion, gender, party politics, and democratization. During Fall 2025, I will be on leave as a Visiting Lecturer at (King's College London)[https://www.kcl.ac.uk/kii].
+I am an Assistant Professor of Political Science and the Aung San Suu Kyi Endowed Chair in Asian Democracy at the University of Louisville's [department of political science](https://louisville.edu/politicalscience) and the [Center for Asian Democracy](https://louisville.edu/asiandemocracy). I study the political economy of development with a regional focus on South Asia, and a substantive emphasis on religion, gender, party politics, and democratization. During Fall 2025, I will be on leave as a Visiting Lecturer at [King's College London](https://www.kcl.ac.uk/kii).
 
 My research examines the ascendance of majoritarian and populist movements, and their implications for the political represenatation, participation, and inclusion of marginalized groups. Parallel research agendas investigate the dissemmination and sustenance of political ideologies, as well as the links between electoral institutions and democratic health. 
 
