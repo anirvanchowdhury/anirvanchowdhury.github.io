@@ -5,7 +5,7 @@ permalink: /research/index.html
 ---
 
 ### Research
-I study the links between social norms and political participation with a focus on gender, religion and conservatism in South Asia. My dissertation and book project examines how political parties wield social and religious norms to mobilize women in India. A complementary research agenda examines the origins and spread of religious conservatism, how regressive norms can be transformed to foster inclusion, and the effects of inclusion on the marginalized and historically entrenched groups. 
+I study political parties and democracy with a focus on gender, religion and conservatism in South Asia. My dissertation and book project examines how religiously conservative parties expand beyond their core elite and male base to mobilize women in India. Complementary agendas focus on ideology dissemination and identity formation, how parties help--or hinder--democratic deepening, and subnational authoritarianism within democratic regimes.
 
 
 [**Book Project: Domesticating Politics: How Religiously Conservative Parties Mobilize Women**](https://anirvanchowdhury.github.io/book/)
@@ -15,7 +15,7 @@ I study the links between social norms and political participation with a focus 
 	- Thomas E. Patterson Best Dissertation in Political Communication, APSA 2024
 	- Best Dissertation in Women, Gender, and Politics Research, APSA 2024
 
-One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a right-wing religiously conservative party whose ideology of _Hindutva_ (Hindu-ness) assigns women to traditional gender roles within the household. What explains the BJP’s success at engaging women in public spaces? 
+One of the most remarkable developments in contemporary Indian politics is the explosion in women’s political participation. For example, between 2009 and 2014, 27% more women attended election rallies, party meetings, and canvassed on behalf of political parties. But paradoxically, this growth was most pronounced for women voting for the Bharatiya Janata Party (BJP), a religiously conservative party whose ideology of _Hindutva_ (Hindu-ness) has historically propagated traditional gender roles. What explains the BJP’s success at engaging women in public spaces? 
 
 For a sketch of the argument, research design, and evidence, please click [here](https://anirvanchowdhury.github.io/book/)! In case you want to know more, please e-mail me at anirvan.chowdhury[at]louisville[dot]edu!
 
@@ -48,10 +48,11 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 * Mobilizing Women at Scale: Mixed Evidence from a Field Experiment (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
 
+<!---
 * Television, Cultural Change, and the Rise of Religious Nationalism in India (with [Rikhil Bhavnani](https://faculty.polisci.wisc.edu/bhavnani/) and [Gareth Nellis](http://www.garethnellis.com/))
 
 * Majoritarian Responses to Minority Mobilization: Evidence from Citizenship Protests in Delhi (with [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh), [Leja Joe Mathew](https://polisci.brown.edu/people/leja-joe-mathew), and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy))
-
+-->
 * Candidate Selection in Local Elections in India (with [Priyadarshi Amar](https://priyadarshiamar.github.io/), [Varun Karekurve-Ramachandra](https://www.varun-kr.com/), and [Kamya Yadav](https://kamyayadav.github.io/))
 
 
@@ -73,7 +74,9 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Media mentions
+<!---
 * [How a Secret BJP War Room Mobilized Female Voters to Win the Indian Elections](https://www.wired.com/story/how-a-secret-bjp-war-room-mobilized-female-voters-to-win-the-indian-elections/), Wired 
+-->
 
 * [How BJP is ‘winning over’ women with ‘seva’ & trend of IITians joining political consultancies](https://theprint.in/global-pulse/how-bjp-is-winning-over-women-with-seva-trend-of-iitians-joining-political-consultancies/2061709/), The Print
 
