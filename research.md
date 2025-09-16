@@ -36,12 +36,9 @@ For a sketch of the argument, research design, and evidence, please click [here]
 	- Sage Best Paper in Comparative Politics, APSA 2025
 	- Weber Best Paper in Religion and Politics, APSA 2025
 
-* Parties against Democracy: The Unexpected Consequences of Electoral Quotas in India (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
+* Parties against Democracy: How Ruling Parties Subvert Inclusion to Entrench Dominance (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
 
-* Social Engineering through Schools (with Aaditya Dar (Independent Researcher), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kuman](https://chinmayakumar.com/))
-
-#### Resting paper
-* [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
+* Social Engineering through Schools (with Aaditya Dar (Independent Researcher), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kumar](https://chinmayakumar.com/))
 
 #### Work in progress
 * Religiously Conservative Parties and Women's Political Mobilization [Book project]. 
@@ -54,6 +51,11 @@ For a sketch of the argument, research design, and evidence, please click [here]
 * Majoritarian Responses to Minority Mobilization: Evidence from Citizenship Protests in Delhi (with [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh), [Leja Joe Mathew](https://polisci.brown.edu/people/leja-joe-mathew), and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy))
 -->
 * Candidate Selection in Local Elections in India (with [Priyadarshi Amar](https://priyadarshiamar.github.io/), [Varun Karekurve-Ramachandra](https://www.varun-kr.com/), and [Kamya Yadav](https://kamyayadav.github.io/))
+
+
+#### Resting paper
+* [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
+
 
 
 #### Other writing
