@@ -5,11 +5,10 @@ permalink: /research/index.html
 ---
 
 ### Research
-I study political parties and democracy with a focus on gender, religion and conservatism in South Asia. My dissertation and book project examines how religiously conservative parties expand beyond their core elite and male base to mobilize women in India. Complementary agendas focus on ideology dissemination and identity formation, how parties help--or hinder--democratic deepening, and subnational authoritarianism within democratic regimes.
+I study political parties and democracy with a focus on gender, religion and conservatism in South Asia. My book project examines how religiously conservative parties expand beyond their core elite and male base to mobilize women in India. Complementary agendas focus on ideology dissemination and identity formation, how parties help--or hinder--democratic deepening, and subnational authoritarianism within democratic regimes.
 
 
-[**Book Project: Domesticating Politics: How Religiously Conservative Parties Mobilize Women**](https://anirvanchowdhury.github.io/book/)
-
+* [**Book Project: Domesticating Politics: How Religiously Conservative Parties Mobilize Women**](https://anirvanchowdhury.github.io/book/)
 	- Mancur Olson Best Dissertation in Political Economy, APSA 2024
 	- Aaron Wildavsky Best Dissertation in Religion and Politics, APSA 2024
 	- Thomas E. Patterson Best Dissertation in Political Communication, APSA 2024
