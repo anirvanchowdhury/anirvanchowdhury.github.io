@@ -40,7 +40,7 @@ For a sketch of the argument, research design, and evidence, please click [here]
 * Social Engineering through Schools (with Aaditya Dar (Independent Researcher), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kumar](https://chinmayakumar.com/))
 
 #### Work in progress
-* Religiously Conservative Parties and Women's Political Mobilization [Book project]. 
+* Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India [Book project]. 
 
 * Mobilizing Women at Scale: Mixed Evidence from a Field Experiment (with [Saad Gulzar](http://saadgulzar.com/) and [Durgesh Pathak](http://aamaadmiparty.org/teams/durgesh-pathak/)) 
 
@@ -50,7 +50,7 @@ For a sketch of the argument, research design, and evidence, please click [here]
 -->
 * Candidate Selection in Local Elections in India (with [Priyadarshi Amar](https://priyadarshiamar.github.io/), [Varun Karekurve-Ramachandra](https://www.varun-kr.com/), and [Kamya Yadav](https://kamyayadav.github.io/))
 
-* Off-site mobilization: Evidence from Citizenship Protests in Delhi (with [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh), [Leja Joe Mathew](https://polisci.brown.edu/people/leja-joe-mathew), and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy))
+* Off-site Mobilization: How Majoritarian Parties React to Minority Activism (with [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh), [Leja Joe Mathew](https://polisci.brown.edu/people/leja-joe-mathew), and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy))
 
 
 #### Resting paper
