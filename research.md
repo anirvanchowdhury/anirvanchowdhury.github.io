@@ -35,9 +35,9 @@ For a sketch of the argument, research design, and evidence, please click [here]
 	- Sage Best Paper in Comparative Politics, APSA 2025
 	- Weber Best Paper in Religion and Politics, APSA 2025
 
-* Parties against Democracy: How Ruling Parties Subvert Inclusion to Entrench Dominance (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri))
+* Parties against Democracy: How Ruling Parties Subvert Inclusion to Entrench Dominance (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri)) - _Draft available upon request_
 
-* Social Engineering through Schools (with Aaditya Dar (Independent Researcher), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kumar](https://chinmayakumar.com/))
+* Social Engineering through Schools (with Aaditya Dar (Independent Researcher), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kumar](https://chinmayakumar.com/)) - _Draft available upon request_
 
 #### Work in progress
 * Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India [Book project]. 
