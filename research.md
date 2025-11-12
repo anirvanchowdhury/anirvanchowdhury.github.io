@@ -57,6 +57,10 @@ For a sketch of the argument, research design, and evidence, please click [here]
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
 
 
+#### Book reviews
+* Prillaman, Soledad Artiz (2023). [The Patriarchal Political Order: The Making and Unraveling of the Gendered Participation Gap in India. Cambridge University Press](https://resolve.cambridge.org/core/journals/perspectives-on-politics/article/patriarchal-political-order-the-making-and-unraveling-of-the-gendered-participation-gap-in-india-by-soledad-artiz-prillaman-cambridge-cambridge-university-press-2023-320p/5204BD7F240305CEEC6F2DD515BA817A)
+* Khan, Arsalan (2024). [The Promise of Piety: Islam and the Politics of Moral Order in Pakistan. Cornell University Press](https://www.cambridge.org/core/journals/politics-and-religion/article/promise-of-piety-islam-and-the-politics-of-moral-order-in-pakistan-by-arsalan-khan-ithaca-new-york-cornell-university-press-2024-240-pp-3195-paperback/8D3B793CEE2C849146E16C245A058E0B)
+
 
 #### Other writing
 ##### Women and politics 
