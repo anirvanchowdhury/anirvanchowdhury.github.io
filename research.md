@@ -35,9 +35,9 @@ For a sketch of the argument, research design, and evidence, please click [here]
 	- Sage Best Paper in Comparative Politics, APSA 2025
 	- Weber Best Paper in Religion and Politics, APSA 2025
 
-* Parties against Democracy: How Ruling Parties Subvert Inclusion to Entrench Dominance (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri)) - _Draft available upon request_
+* Parties against Democracy: How Ruling Parties Subvert Inclusion to Entrench Themselves (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri)) - _Draft available upon request_
 
-* Social Engineering through Schools (with Aaditya Dar (Independent Researcher), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kumar](https://chinmayakumar.com/)) - _Draft available upon request_
+* Social Engineering through Schools (with [Aaditya Dar](https://aadityadar.com/), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kumar](https://chinmayakumar.com/)) - _Draft available upon request_
 
 #### Work in progress
 * Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India [Book project]. 
@@ -48,7 +48,7 @@ For a sketch of the argument, research design, and evidence, please click [here]
 * Television, Cultural Change, and the Rise of Religious Nationalism in India (with [Rikhil Bhavnani](https://faculty.polisci.wisc.edu/bhavnani/) and [Gareth Nellis](http://www.garethnellis.com/))
 
 -->
-* Candidate Selection in Local Elections in India (with [Priyadarshi Amar](https://priyadarshiamar.github.io/), [Varun Karekurve-Ramachandra](https://www.varun-kr.com/), and [Kamya Yadav](https://kamyayadav.github.io/))
+* Candidate Selection in Indian Local Elections (with [Priyadarshi Amar](https://priyadarshiamar.github.io/), [Varun Karekurve-Ramachandra](https://www.varun-kr.com/), and [Kamya Yadav](https://kamyayadav.github.io/))
 
 * Off-site Mobilization: How Majoritarian Parties React to Minority Activism (with [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh), [Leja Joe Mathew](https://polisci.brown.edu/people/leja-joe-mathew), and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy))
 
@@ -58,8 +58,8 @@ For a sketch of the argument, research design, and evidence, please click [here]
 
 
 #### Book reviews
-* Prillaman, Soledad Artiz (2023). [The Patriarchal Political Order: The Making and Unraveling of the Gendered Participation Gap in India. Cambridge University Press](https://resolve.cambridge.org/core/journals/perspectives-on-politics/article/patriarchal-political-order-the-making-and-unraveling-of-the-gendered-participation-gap-in-india-by-soledad-artiz-prillaman-cambridge-cambridge-university-press-2023-320p/5204BD7F240305CEEC6F2DD515BA817A)
-* Khan, Arsalan (2024). [The Promise of Piety: Islam and the Politics of Moral Order in Pakistan. Cornell University Press](https://www.cambridge.org/core/journals/politics-and-religion/article/promise-of-piety-islam-and-the-politics-of-moral-order-in-pakistan-by-arsalan-khan-ithaca-new-york-cornell-university-press-2024-240-pp-3195-paperback/8D3B793CEE2C849146E16C245A058E0B)
+* Prillaman, Soledad Artiz (2023). [The Patriarchal Political Order: The Making and Unraveling of the Gendered Participation Gap in India.](https://resolve.cambridge.org/core/journals/perspectives-on-politics/article/patriarchal-political-order-the-making-and-unraveling-of-the-gendered-participation-gap-in-india-by-soledad-artiz-prillaman-cambridge-cambridge-university-press-2023-320p/5204BD7F240305CEEC6F2DD515BA817A) Cambridge University Press
+* Khan, Arsalan (2024). [The Promise of Piety: Islam and the Politics of Moral Order in Pakistan.](https://www.cambridge.org/core/journals/politics-and-religion/article/promise-of-piety-islam-and-the-politics-of-moral-order-in-pakistan-by-arsalan-khan-ithaca-new-york-cornell-university-press-2024-240-pp-3195-paperback/8D3B793CEE2C849146E16C245A058E0B) Cornell University Press
 
 
 #### Other writing
