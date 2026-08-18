@@ -23,6 +23,10 @@ For a sketch of the argument, research design, and evidence, please click [here]
 #### Publications
 
 ##### Journal Articles
+202X [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/jkqxeoucy4uqmnqmy1phe/Chowdhury_DomesticatingPolitics_20250614.pdf?rlkey=u4zct3ox1mudyv31qjli2ix4h&dl=0) [_Conditionally accepted, American Journal of Political Science_]
+	- Sage Best Paper in Comparative Politics, APSA 2025
+	- Weber Best Paper in Religion and Politics, APSA 2025
+
 2019 [Voter information campaigns and political accountability: Cumulative findings from a preregistered meta-analysis of coordinated trials](https://advances.sciencemag.org/content/5/7/eaaw2612.full) (with Thad Dunning, Guy Grossman, Macartan Humphreys, Susan Hyde, Craig McIntosh, Gareth Nellis, Claire L. Adida, Eric Arias, Clara Bicalho, Taylor C. Boas, Mark T. Buntaine, Simon Chauchard, Jessica Gottlieb, F. Daniel Hidalgo, Marcus Holmlund, Ryan Jablonski, Eric Kramon, Horacio Larreguy, Malte Lierl, John Marshall, Gwyneth McClendon, Marcus A. Melo, Daniel L. Nielson, Paula M. Pickering, Melina R. Platas, Pablo Querubin, Pia Raffler, and Neelanjan Sircar). _Science Advances_
 
 ##### Book chapters
@@ -31,15 +35,12 @@ For a sketch of the argument, research design, and evidence, please click [here]
 2017 Do Gram Panchayats Get Their Money? A Case Study of Gram Panchayat Fund Flows in Birbhum District, West Bengal (with [Ambrish Dongre](https://www.iima.ac.in/web/faculty/faculty-profiles/ambrish-dongre) and [Yamini Aiyar](http://www.cprindia.org/people/yamini-aiyar)) in _Decentralisation, Governance and Development: An Indian Perspective_. Orient Black Swan.
 
 #### Working papers
-* [Domesticating Politics: How Religiously Conservative Parties Mobilize Women in India](https://www.dropbox.com/scl/fi/jkqxeoucy4uqmnqmy1phe/Chowdhury_DomesticatingPolitics_20250614.pdf?rlkey=u4zct3ox1mudyv31qjli2ix4h&dl=0) [_Conditionally accepted, American Journal of Political Science_]
-	- Sage Best Paper in Comparative Politics, APSA 2025
-	- Weber Best Paper in Religion and Politics, APSA 2025
-
 * Parties against Democracy: How Ruling Parties Subvert Inclusion to Entrench Themselves (with [Anustubh Agnihotri](http://polisci.berkeley.edu/people/person/anustubh-agnihotri)) - _Draft available upon request_
 
 * Social Engineering through Schools (with [Aaditya Dar](https://aadityadar.com/), [Varun K.](https://sites.google.com/view/varunk/), and [Chinmaya Kumar](https://chinmayakumar.com/)) - _Draft available upon request_
 
 * Protest, Proximity, and Party Strategy: Evidence from Minority Protests in Majoritarian India (with [Shahana Sheikh](https://politicalscience.yale.edu/people/shahana-sheikh), [Leja Joe Mathew](https://polisci.brown.edu/people/leja-joe-mathew), and [Shamindra Nath Roy](https://www.cprindia.org/people/shamindra-nath-roy)) - _Draft available upon request_
+
 
 
 
@@ -55,9 +56,12 @@ For a sketch of the argument, research design, and evidence, please click [here]
 * Candidate Selection in Indian Local Elections (with [Priyadarshi Amar](https://priyadarshiamar.github.io/), [Varun Karekurve-Ramachandra](https://www.varun-kr.com/), and [Kamya Yadav](https://kamyayadav.github.io/))
 
 
+* Illiberal Politics, Women-Targeted Welfare, and the Reinforcement of Patriarchy in India (with [Louise Tillin](https://www.kcl.ac.uk/people/louise-tillin))
+
 
 #### Resting paper
 * [Poverty Alleviation or Political Calculation? Implementing India's Rural Employment Guarantee Scheme](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2555738)
+
 
 
 #### Book reviews
